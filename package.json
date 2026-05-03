@@ -1,0 +1,15 @@
+{
+  "name": "business-8ways-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate:legacy": "node scripts/migrate-legacy-commercial.mjs",
+    "build": "node scripts/build-site.mjs"
+  },
+  "dependencies": {
+    "gray-matter": "latest",
+    "marked": "latest",
+    "playwright": "latest"
+  }
+}

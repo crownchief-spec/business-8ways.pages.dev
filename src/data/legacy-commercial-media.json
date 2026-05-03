@@ -1,0 +1,4022 @@
+[
+  {
+    "sourcePage": "https://www.8-ways.com/service",
+    "sourcePageSlug": "service",
+    "originalUrl": "https://static.wixstatic.com/media/11062b_2042bb7351284f0f982e4787d37415e6f000.jpg/v1/fill/w_980,h_408,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/11062b_2042bb7351284f0f982e4787d37415e6f000.jpg",
+    "localPath": "/assets/legacy-commercial/service/service-001-service-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "service"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/service",
+    "sourcePageSlug": "service",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_2df9a550ef744a7c818d0eccfda8f2aa~mv2.jpg/v1/fill/w_490,h_408,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/636b95_2df9a550ef744a7c818d0eccfda8f2aa~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/service/service-002-service-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "service"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/service",
+    "sourcePageSlug": "service",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg/v1/fill/w_907,h_755,al_c,q_85,enc_avif,quality_auto/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/service/service-003-小巴老師個人照工作照小檔案jpg.jpg",
+    "alt": "小巴老師個人照工作照小檔案.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "service"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-001-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-002-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_25b668f1dae84fc29da5cbae569e6f75~mv2.jpg/v1/fill/w_479,h_271,q_81,enc_avif,quality_auto/636b95_25b668f1dae84fc29da5cbae569e6f75~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-003-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e88ff2d126c9497fbb84a43e8b008dd2~mv2.jpg/v1/fill/w_479,h_225,q_81,enc_avif,quality_auto/636b95_e88ff2d126c9497fbb84a43e8b008dd2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-004-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0db5c6fb2b324346bc66564b95c1638e~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_0db5c6fb2b324346bc66564b95c1638e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-005-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_98abc9d5baec4a5f936450f83f6f8049~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_98abc9d5baec4a5f936450f83f6f8049~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-006-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-007-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4a83297d505f4a77b30be15261c8893e~mv2.jpg/v1/fill/w_479,h_267,q_81,enc_avif,quality_auto/636b95_4a83297d505f4a77b30be15261c8893e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-008-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_9b488d3b1939408e85168068a74467c2~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_9b488d3b1939408e85168068a74467c2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-009-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b0eebc2fd2f941548ff5c29146772947~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_b0eebc2fd2f941548ff5c29146772947~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-010-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8c7ba07e029d44dbb1c3342d3a2e9d99~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_8c7ba07e029d44dbb1c3342d3a2e9d99~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-011-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_844eb5b4ee7543c0a2843a0a0b72893c~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_844eb5b4ee7543c0a2843a0a0b72893c~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-012-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4845438007b34d3a88dc88d79435e29e~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_4845438007b34d3a88dc88d79435e29e~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-013-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_000c66434ede4e11a5c3decf00b52f89~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_000c66434ede4e11a5c3decf00b52f89~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-014-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0bc16c2e85934089bd77c2affcc86316~mv2.jpg/v1/fill/w_479,h_275,q_81,enc_avif,quality_auto/636b95_0bc16c2e85934089bd77c2affcc86316~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-015-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-016-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_adeb9dd9ae0944d5b9f4fd130e171a9a~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_adeb9dd9ae0944d5b9f4fd130e171a9a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-017-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-018-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_18131a74734c49fd9942304c19382582~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_18131a74734c49fd9942304c19382582~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-019-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0617e2672364462ba1dcc7591d1ca6e3~mv2.jpg/v1/fill/w_479,h_264,q_81,enc_avif,quality_auto/636b95_0617e2672364462ba1dcc7591d1ca6e3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-020-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e51d6d829fbe40e48e5eb518cf417bd1~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_e51d6d829fbe40e48e5eb518cf417bd1~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-021-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_2b8da7e2a88341579a9cca541b61bb6f~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_2b8da7e2a88341579a9cca541b61bb6f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-022-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_336b45d0a8cb4875aa8bc1292429f43e~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_336b45d0a8cb4875aa8bc1292429f43e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-023-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_47be8523f3d64da5b6b3eb74658865b9~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_47be8523f3d64da5b6b3eb74658865b9~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-024-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e9cb8c856a5c4f8bb48ef59d1803e620~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_e9cb8c856a5c4f8bb48ef59d1803e620~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-025-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_12c9ff9ee6984706bdb671468fe82f49~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_12c9ff9ee6984706bdb671468fe82f49~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-026-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_684f9352385248dd8df62424da28f039~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_684f9352385248dd8df62424da28f039~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-027-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_eaa53f29beaa421dbce02e709d33cc31~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_eaa53f29beaa421dbce02e709d33cc31~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-028-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b443b8bbf0ec4ccd894f8ba837e0223a~mv2.jpg/v1/fill/w_479,h_325,q_81,enc_avif,quality_auto/636b95_b443b8bbf0ec4ccd894f8ba837e0223a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-029-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_bf569c486af14adf86d6a0707d1dc5e7~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_bf569c486af14adf86d6a0707d1dc5e7~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-030-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_05e6e6b16d0749f5bc47e052ecbb51f3~mv2.jpg/v1/fill/w_478,h_319,q_81,enc_avif,quality_auto/636b95_05e6e6b16d0749f5bc47e052ecbb51f3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-031-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_2d5edf59f5e540a29929d642210a28b1~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_2d5edf59f5e540a29929d642210a28b1~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-032-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_38e956bde40149b8b36702dc548274ac~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_38e956bde40149b8b36702dc548274ac~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-033-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_076e7fed801544f9b711c7b231862b5c~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_076e7fed801544f9b711c7b231862b5c~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-034-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0f43bfdde80c46dd90df431b60700fbc~mv2.jpg/v1/fill/w_478,h_343,q_81,enc_avif,quality_auto/636b95_0f43bfdde80c46dd90df431b60700fbc~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-035-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e0efaeedf626482190b7655f40922284~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_e0efaeedf626482190b7655f40922284~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-036-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c25e130cf73b4e57bbaaf6d0f209d863~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_c25e130cf73b4e57bbaaf6d0f209d863~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-037-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_fb215b5ad7814b1cbf99afdb5532d447~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_fb215b5ad7814b1cbf99afdb5532d447~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-038-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_caf7191e67ed4e17980a679ba4b6be88~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_caf7191e67ed4e17980a679ba4b6be88~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-039-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e9eb64e8d2ac4afbb243d508992a8331~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_e9eb64e8d2ac4afbb243d508992a8331~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-040-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c57ba1658e3444b0a74cefaa46c7666c~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_c57ba1658e3444b0a74cefaa46c7666c~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-041-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_3528a601c40e4cf7a389e7750b92f07e~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_3528a601c40e4cf7a389e7750b92f07e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-042-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_7358ac95eb714ea790f7dd2e013f21e0~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_7358ac95eb714ea790f7dd2e013f21e0~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-043-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f41264b6a1c54d558c5a2f84b97cf931~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_f41264b6a1c54d558c5a2f84b97cf931~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-044-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_852111ca9b654b0db5bd3d88b67803e7~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_852111ca9b654b0db5bd3d88b67803e7~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-045-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8a052ee474564839a7d23bd9d1a094f9~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_8a052ee474564839a7d23bd9d1a094f9~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-046-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_33f38b107cbf4fc8a10b3b6c654d31bf~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_33f38b107cbf4fc8a10b3b6c654d31bf~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-047-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_90bdd22d46c64a98a48e79f03ce6a015~mv2.jpg/v1/fill/w_478,h_269,q_79,enc_avif,quality_auto/636b95_90bdd22d46c64a98a48e79f03ce6a015~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-048-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a5de18d6d612421f9d40fa2b8d703ad7~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_a5de18d6d612421f9d40fa2b8d703ad7~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-049-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f1bb5ed3a56f4bfc91be5522874f2e3e~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_f1bb5ed3a56f4bfc91be5522874f2e3e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-050-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b77d5fd0fa644ef0b337fe5c03de8f71~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_b77d5fd0fa644ef0b337fe5c03de8f71~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-051-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b6a8623b40984171b5429ef39f3e38d3~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_b6a8623b40984171b5429ef39f3e38d3~mv2.webp",
+    "localPath": "/assets/legacy-commercial/works/works-052-works-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_db6d056c513c48e8bf5514fb1db0c674~mv2.jpeg/v1/fill/w_478,h_718,q_79,enc_avif,quality_auto/636b95_db6d056c513c48e8bf5514fb1db0c674~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/works/works-053-works-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a8c25d866f0d4294b322a10101eed806~mv2.jpeg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_a8c25d866f0d4294b322a10101eed806~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/works/works-054-works-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_67b222942bae42b9af17a145d594f75b~mv2.jpeg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_67b222942bae42b9af17a145d594f75b~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/works/works-055-works-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_5d9a7c2d8f5349068922eac61a57c098~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_5d9a7c2d8f5349068922eac61a57c098~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-056-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_db3d516054e24a448c421ebc5d0df03d~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_db3d516054e24a448c421ebc5d0df03d~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-057-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_6a45000e921a441c96e9be005922b23e~mv2.jpg/v1/fill/w_478,h_718,q_79,enc_avif,quality_auto/636b95_6a45000e921a441c96e9be005922b23e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-058-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e48b1d3d3c9342a4a59bcef9a376f1f0~mv2.jpg/v1/fill/w_479,h_720,q_79,enc_avif,quality_auto/636b95_e48b1d3d3c9342a4a59bcef9a376f1f0~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-059-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e4881d03943f41128300f8d872e88d95~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_e4881d03943f41128300f8d872e88d95~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-060-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f74ca8d11c064931a7d0ba21417bec7e~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_f74ca8d11c064931a7d0ba21417bec7e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-061-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0b29d3d2632544cd83abce9667820449~mv2.jpg/v1/fill/w_478,h_718,q_79,enc_avif,quality_auto/636b95_0b29d3d2632544cd83abce9667820449~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-062-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_7acf23a71b264777b9f818d4fcb616fb~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_7acf23a71b264777b9f818d4fcb616fb~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-063-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_56c2399a571048c5b7c9e38c54fc4322~mv2.jpg/v1/fill/w_479,h_720,q_79,enc_avif,quality_auto/636b95_56c2399a571048c5b7c9e38c54fc4322~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-064-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_60ea11f61f8c4cd99ecdf275d5a52ae2~mv2.jpg/v1/fill/w_479,h_720,q_79,enc_avif,quality_auto/636b95_60ea11f61f8c4cd99ecdf275d5a52ae2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-065-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_721a135c085b473e93e1dceee9b84b17~mv2.jpg/v1/fill/w_478,h_269,q_79,enc_avif,quality_auto/636b95_721a135c085b473e93e1dceee9b84b17~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-066-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c356d5b4a67a439fa388593d9612ad19~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_c356d5b4a67a439fa388593d9612ad19~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-067-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f8ec0731023c42b9ac2956e03b2b4137~mv2.jpg/v1/fill/w_479,h_720,q_79,enc_avif,quality_auto/636b95_f8ec0731023c42b9ac2956e03b2b4137~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-068-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_215062f177084b3f9cf5199e8e40e7a1~mv2.jpg/v1/fill/w_479,h_720,q_79,enc_avif,quality_auto/636b95_215062f177084b3f9cf5199e8e40e7a1~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-069-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4fe7b8f7830545288f248aaab4b8d4ba~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_4fe7b8f7830545288f248aaab4b8d4ba~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-070-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d913fb11580a44129b3a9a6c2b85c5a6~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_d913fb11580a44129b3a9a6c2b85c5a6~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-071-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_090a23e441984274975332ae95d5f714~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_090a23e441984274975332ae95d5f714~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-072-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4d02026b52dd44379181df48a97f4a7a~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_4d02026b52dd44379181df48a97f4a7a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-073-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_19ad6618d20343d1a7b9025e1b81f578~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_19ad6618d20343d1a7b9025e1b81f578~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-074-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d2568596ebb942a68df77306a22804c6~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_d2568596ebb942a68df77306a22804c6~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-075-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_5d91a8c895cc4baaae876ce13a4b0c87~mv2.jpg/v1/fill/w_478,h_269,q_79,enc_avif,quality_auto/636b95_5d91a8c895cc4baaae876ce13a4b0c87~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-076-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_270f9b4b76f941158381738757377550~mv2.jpg/v1/fill/w_479,h_720,q_79,enc_avif,quality_auto/636b95_270f9b4b76f941158381738757377550~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-077-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f407dfc09cb74cc1becf23e12cf5ef42~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_f407dfc09cb74cc1becf23e12cf5ef42~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-078-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b00559f2ecb547398ff44af74462945d~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_b00559f2ecb547398ff44af74462945d~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-079-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b4e723bcc9994eb3930b3cf098f71bb9~mv2.jpg/v1/fill/w_479,h_720,q_79,enc_avif,quality_auto/636b95_b4e723bcc9994eb3930b3cf098f71bb9~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-080-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_098f92c3ef514ae1af06d3f92581ac73~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_098f92c3ef514ae1af06d3f92581ac73~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-081-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d1e541df75304e479132940ec25b31ab~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_d1e541df75304e479132940ec25b31ab~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-082-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_1b9bdbdcb5a34cc4ace0304d3eee82a4~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_1b9bdbdcb5a34cc4ace0304d3eee82a4~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-083-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f65321af77394af2b5749b5b078c74b3~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_f65321af77394af2b5749b5b078c74b3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-084-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_1b3a898a2d1f4754939ef9bc05ef7d65~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_1b3a898a2d1f4754939ef9bc05ef7d65~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-085-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e3b12660b2284fb481c9356b6e2db6e4~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_e3b12660b2284fb481c9356b6e2db6e4~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-086-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a9a0be94d1d542d8986267f4151b3144~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_a9a0be94d1d542d8986267f4151b3144~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-087-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_54898b683533410f84bb90451dfddf3b~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_54898b683533410f84bb90451dfddf3b~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-088-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_783b55872c0c4a72845b18f72b562de8~mv2.jpg/v1/fill/w_478,h_717,q_79,enc_avif,quality_auto/636b95_783b55872c0c4a72845b18f72b562de8~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-089-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_851c4af44f43419382a0b4913479bab2~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_851c4af44f43419382a0b4913479bab2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-090-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4f5db29c990645d1a51edba417956c92~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_4f5db29c990645d1a51edba417956c92~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-091-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f09e6e0e867a423e8203f7c0f0517fd3~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_f09e6e0e867a423e8203f7c0f0517fd3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-092-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_35c52f1aeb5e4294a3250c1eac06714e~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_35c52f1aeb5e4294a3250c1eac06714e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-093-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_20c41fd9be504c38a5a673c15ec11d18~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_20c41fd9be504c38a5a673c15ec11d18~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-094-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_700fb3acc55a4ec3b122dc93367e9ff7~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_700fb3acc55a4ec3b122dc93367e9ff7~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-095-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a18df122a1dc458c9f6e6920b457539d~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_a18df122a1dc458c9f6e6920b457539d~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-096-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_db22a4df209e4b8bad7773974cc765b1~mv2.jpg/v1/fill/w_478,h_269,q_79,enc_avif,quality_auto/636b95_db22a4df209e4b8bad7773974cc765b1~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-097-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e52af39c9f8b4549b22480a37ed25d3f~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_e52af39c9f8b4549b22480a37ed25d3f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-098-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f89b244fdba14ce4aced31e580ca8067~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_f89b244fdba14ce4aced31e580ca8067~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-099-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_7f429369dc9c431a8054d45f01da00c1~mv2.jpg/v1/fill/w_478,h_318,q_79,enc_avif,quality_auto/636b95_7f429369dc9c431a8054d45f01da00c1~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-100-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f94c6586abe849a38b7342bc94457a5f~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_f94c6586abe849a38b7342bc94457a5f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-101-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_29066adc33884c33a97ed31b377f9c61~mv2.jpg/v1/fill/w_479,h_319,q_79,enc_avif,quality_auto/636b95_29066adc33884c33a97ed31b377f9c61~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-102-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg/v1/fill/w_907,h_755,al_c,q_85,enc_avif,quality_auto/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-103-小巴老師個人照工作照小檔案jpg.jpg",
+    "alt": "小巴老師個人照工作照小檔案.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-104-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-105-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-106-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4845438007b34d3a88dc88d79435e29e~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_4845438007b34d3a88dc88d79435e29e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-107-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-108-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.png",
+    "localPath": "/assets/legacy-commercial/works/works-109-works-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c57ba1658e3444b0a74cefaa46c7666c~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_c57ba1658e3444b0a74cefaa46c7666c~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-110-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_7358ac95eb714ea790f7dd2e013f21e0~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_7358ac95eb714ea790f7dd2e013f21e0~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-111-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_90bdd22d46c64a98a48e79f03ce6a015~mv2.jpg/v1/fill/w_478,h_269,q_79,enc_avif,quality_auto/636b95_90bdd22d46c64a98a48e79f03ce6a015~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-112-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/works",
+    "sourcePageSlug": "works",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b6a8623b40984171b5429ef39f3e38d3~mv2.jpg/v1/fill/w_479,h_269,q_79,enc_avif,quality_auto/636b95_b6a8623b40984171b5429ef39f3e38d3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/works/works-113-works-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "works"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/aboutus",
+    "sourcePageSlug": "aboutus",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg/v1/fill/w_907,h_755,al_c,q_85,enc_avif,quality_auto/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/aboutus/aboutus-001-小巴老師個人照工作照小檔案jpg.jpg",
+    "alt": "小巴老師個人照工作照小檔案.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "aboutus"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/eaEBIug4MV8/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-001-滑雪攝影安比高原姚元浩滑雪-saj指導員考證.jpg",
+    "alt": "滑雪攝影|安比高原|姚元浩滑雪 SAJ指導員考證",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/y0fbPeXM7cU/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-002-滑雪攝影滑雪學校台北滑雪學校-內湖滑雪日本八幡平滑雪團行程.jpg",
+    "alt": "滑雪攝影|滑雪學校|台北滑雪學校 內湖滑雪/日本八幡平滑雪團行程",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/pZZjamOIFsg/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-003-滑雪攝影滑雪學校台中滑雪學校宣傳影片.jpg",
+    "alt": "滑雪攝影|滑雪學校|台中滑雪學校宣傳影片",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/JF_FkYOKfWs/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-004-北海道二世谷滑雪親子家庭攝影小巴老師攝影.jpg",
+    "alt": "北海道二世谷滑雪親子家庭攝影/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/rUj5i3vDeOQ/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-005-滑雪攝影師-滑雪主題旅遊.jpg",
+    "alt": "滑雪攝影師-滑雪主題旅遊",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/yUa90SsDioM/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-006-滑雪攝影滑雪學校台北滑雪學校-內湖教室教學.jpg",
+    "alt": "滑雪攝影|滑雪學校|台北滑雪學校 內湖教室教學",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/tGg8goHyxi0/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-007-飯店攝影度假村攝影-星野度假村hoshino-resort愛絲冰城ice-vil.jpg",
+    "alt": "飯店攝影|度假村攝影-星野度假村Hoshino Resort愛絲冰城ice village",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/riHz8ukIJ9I/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-008-餐廳攝影美食攝影北海道星野度假村hotalu-street-sweets-yuk.jpg",
+    "alt": "餐廳攝影|美食攝影|北海道星野度假村Hotalu street, Sweets yukino,  Bowl&Roll House",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/9nxOWeCqx1k/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-009-餐廳攝影美食攝影懷石料理小樽海寶樓-otaru-kaihourou-in-tom.jpg",
+    "alt": "餐廳攝影|美食攝影|懷石料理小樽海寶樓 OTARU Kaihourou in Tomamu@星野度假村",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/f92VT2zg2Ck/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-010-餐廳攝影美食攝影星野度假村-北海道cafe-lounge-yukku-yukku.jpg",
+    "alt": "餐廳攝影|美食攝影|星野度假村 北海道Cafe Lounge Yukku Yukku in tomamu@",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/-8OEzgB_Zd4/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-011-飯店攝影房型拍攝-星野度假村kumo-suite-雲套房-雲-日本hoshino.jpg",
+    "alt": "飯店攝影|房型拍攝-星野度假村kumo suite 雲套房 雲スイート 日本Hoshino Resort RISONARE Tomamu",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/_NZQGC5GH5M/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-012-飯店攝影度假村攝影-mina-mina-beach微笑海灘-farm-desig.jpg",
+    "alt": "飯店攝影|度假村攝影-Mina Mina Beach微笑海灘 Farm Designs",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/aa9gCjGN-0M/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-013-餐廳攝影美食攝影星野度假村hoshino-resort-鮭魚卵飯-森林餐廳for.jpg",
+    "alt": "餐廳攝影|美食攝影|星野度假村Hoshino Resort 鮭魚卵飯  森林餐廳Forest Restaurant NININUPURI",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/HvDMUbqBCu4/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-014-劍湖山世界主題樂園-劍湖山渡假大飯店空拍-宣傳影片空拍小巴老師攝影.jpg",
+    "alt": "劍湖山世界主題樂園 劍湖山渡假大飯店空拍 /宣傳影片/空拍/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/xSiHJfdph1Q/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-015-墾丁伊亞帆船遊艇俱樂部eyai空拍水中攝影小巴老師攝影.jpg",
+    "alt": "墾丁伊亞帆船遊艇俱樂部EYAI/空拍/水中攝影/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/0ag5vtDbTno/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-016-澎湖成發旅遊玩家-遊艇空拍小巴老師攝影.jpg",
+    "alt": "澎湖成發旅遊玩家 遊艇/空拍/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/GMe53DUJLY8/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-017-墾丁潮間帶-導覽介紹影片小巴老師攝影.jpg",
+    "alt": "墾丁潮間帶 導覽介紹影片/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/pl2YivI9vA4/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-018-潛水教練美人魚ziby-空拍水中攝影小巴老師攝影.jpg",
+    "alt": "潛水教練美人魚Ziby 空拍/水中攝影/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/jNJ-oya0vkA/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-019-宣傳影片-elpis兒童車衣滑步車小巴老師攝影.jpg",
+    "alt": "[宣傳影片] Elpis兒童車衣/滑步車/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/VU847ByJf7k/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-020-瑜伽教練-雪梨sydney商業攝影師小巴老師.jpg",
+    "alt": "瑜伽教練 雪梨Sydney|商業攝影師|小巴老師",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_ddcc574667dc428e950cbaedf2e8b14e~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_ddcc574667dc428e950cbaedf2e8b14e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-021-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_3ae62a22a4904c01a916500c3b037ccc~mv2.jpg/v1/fill/w_479,h_720,q_81,enc_avif,quality_auto/636b95_3ae62a22a4904c01a916500c3b037ccc~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-022-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f8f5d4eaab8940f0a3aee4e493d69b68~mv2.jpg/v1/fill/w_478,h_270,q_81,enc_avif,quality_auto/636b95_f8f5d4eaab8940f0a3aee4e493d69b68~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-023-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_933532f545204dbb9a276a70aac1a928~mv2.jpeg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_933532f545204dbb9a276a70aac1a928~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/travel/travel-024-travel-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d15f059753e745feb5a9aaad925ea875~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_d15f059753e745feb5a9aaad925ea875~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-025-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_de43cdb5c7144806a419714cc98d0c36~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_de43cdb5c7144806a419714cc98d0c36~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-026-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_5a852f2ca98b4e31a135f6bc69e7fd89~mv2.jpg/v1/fill/w_478,h_270,q_81,enc_avif,quality_auto/636b95_5a852f2ca98b4e31a135f6bc69e7fd89~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-027-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_3ec59f4425384519873faf11e00f8997~mv2.jpeg/v1/fill/w_479,h_274,q_81,enc_avif,quality_auto/636b95_3ec59f4425384519873faf11e00f8997~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/travel/travel-028-travel-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_85f8290b57154f6588d0ceb778b3a66f~mv2.jpeg/v1/fill/w_478,h_319,q_81,enc_avif,quality_auto/636b95_85f8290b57154f6588d0ceb778b3a66f~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/travel/travel-029-travel-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8116b1969a7e45df83df54674a5a8602~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_8116b1969a7e45df83df54674a5a8602~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-030-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_25bd48438e8d46388980aba506ab8851~mv2.jpg/v1/fill/w_320,h_180,q_81,enc_avif,quality_auto/636b95_25bd48438e8d46388980aba506ab8851~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-031-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c924e77353534750b6debcee6f280e29~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_c924e77353534750b6debcee6f280e29~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-032-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_923cdb63406f42a1818976edd7fa92ed~mv2.jpg/v1/fill/w_478,h_268,q_81,enc_avif,quality_auto/636b95_923cdb63406f42a1818976edd7fa92ed~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-033-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_49a2ca3b4a974cdfb5bb94fdf33cdbc3~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_49a2ca3b4a974cdfb5bb94fdf33cdbc3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-034-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_eb47641f54284e37872de101d96e048e~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_eb47641f54284e37872de101d96e048e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-035-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_246dda5fe06046ce922735963df90800~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_246dda5fe06046ce922735963df90800~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-036-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_eaa1e8e40c9c4e3fa99261e9f4b33c53~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_eaa1e8e40c9c4e3fa99261e9f4b33c53~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-037-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg/v1/fill/w_907,h_755,al_c,q_85,enc_avif,quality_auto/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-038-小巴老師個人照工作照小檔案jpg.jpg",
+    "alt": "小巴老師個人照工作照小檔案.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/eaEBIug4MV8/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-039-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/y0fbPeXM7cU/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-040-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/pZZjamOIFsg/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-041-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/JF_FkYOKfWs/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-042-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/rUj5i3vDeOQ/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-043-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/yUa90SsDioM/hqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-044-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/tGg8goHyxi0/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-045-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/riHz8ukIJ9I/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-046-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/9nxOWeCqx1k/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-047-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/f92VT2zg2Ck/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-048-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/-8OEzgB_Zd4/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-049-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/_NZQGC5GH5M/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-050-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/aa9gCjGN-0M/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-051-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/xSiHJfdph1Q/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-052-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/0ag5vtDbTno/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-053-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/GMe53DUJLY8/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-054-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/pl2YivI9vA4/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-055-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/jNJ-oya0vkA/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-056-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/travel",
+    "sourcePageSlug": "travel",
+    "originalUrl": "https://i.ytimg.com/vi/VU847ByJf7k/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/travel/travel-057-travel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "travel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/UNxtyKcjtc0/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-001-朱銘美術館20週年館慶小巴老師.jpg",
+    "alt": "朱銘美術館20週年館慶/小巴老師",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/bgm7c484NBM/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-002-向海那漾開幕記者會-nayang-beach台中風車露營區.jpg",
+    "alt": "向海那漾開幕記者會 Nayang Beach/台中風車露營區",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/2BAG1bvVLj8/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-003-失智症關懷協會-愛憶起來園遊會mv-桃園市失智症關懷協會107年國際失智症月系列.jpg",
+    "alt": "失智症關懷協會 愛憶起來園遊會MV/ 桃園市失智症關懷協會107年國際失智症月系列活動",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/cAGjCvvskUQ/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-004-台灣基督教婦女會cwc-2017聖誕餐會-小巴老師攝影.jpg",
+    "alt": "台灣基督教婦女會CWC 2017聖誕餐會 / 小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/SqJRrp8s8RQ/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-005-龍吟趨勢論壇2019-智榮基金會-宏碁.jpg",
+    "alt": "龍吟趨勢論壇2019  智榮基金會 / 宏碁",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/MkAbtulaQRA/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-006-京站-陳之穎vip私廚料理-小巴老師攝影.jpg",
+    "alt": "京站 陳之穎VIP私廚料理 / 小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/-KUqZWr5LVo/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-007-台北食品展南港展覽館-2017廣誠食品小巴老師攝影.jpg",
+    "alt": "台北食品展南港展覽館 2017廣誠食品/小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/cVGKUQAux7s/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-008-華山藝文特區-bosch家電風格體驗展-小巴老師攝影.jpg",
+    "alt": "華山藝文特區 Bosch家電風格體驗展 / 小巴老師攝影",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_13bc5fce5eb14a088ad013cbccfaa9a3~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_13bc5fce5eb14a088ad013cbccfaa9a3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-009-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_057c5c1746b6415ca5d00d617de752cc~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_057c5c1746b6415ca5d00d617de752cc~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-010-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0fc6509f674047f79fd2b3c318064a7f~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_0fc6509f674047f79fd2b3c318064a7f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-011-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_9e283ef7e8fe4a7e83d34309d98cc9ae~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_9e283ef7e8fe4a7e83d34309d98cc9ae~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-012-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c4f3144cfc874fa2adebd5bd9871fac2~mv2.jpg/v1/fill/w_479,h_268,q_81,enc_avif,quality_auto/636b95_c4f3144cfc874fa2adebd5bd9871fac2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-013-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_357aed8cb7ba4a68931a588af7004e84~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_357aed8cb7ba4a68931a588af7004e84~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-014-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_9aa814df9a1b4788a7853face5b287ba~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_9aa814df9a1b4788a7853face5b287ba~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-015-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_126f55edc1894d4a871f1a653373a668~mv2.jpeg/v1/fill/w_478,h_719,q_81,enc_avif,quality_auto/636b95_126f55edc1894d4a871f1a653373a668~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/event/event-016-event-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_6c1b146526e14625979179d432ce28c0~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_6c1b146526e14625979179d432ce28c0~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-017-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cfe657f470c84c04a95a70d65edcec28~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_cfe657f470c84c04a95a70d65edcec28~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-018-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_9f740b39f7b9415ea0e563694e212e37~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_9f740b39f7b9415ea0e563694e212e37~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-019-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_eea45cbbc0ed4a91b6ccc93fc3899d29~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_eea45cbbc0ed4a91b6ccc93fc3899d29~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-020-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_5ed7a374f63a4f78b4776aa9882bead2~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_5ed7a374f63a4f78b4776aa9882bead2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-021-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_1617876625b343dcad0c0b19f42db94b~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_1617876625b343dcad0c0b19f42db94b~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-022-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f2d9f4703ca445caac5a788f01da105f~mv2.jpg/v1/fill/w_479,h_154,q_81,enc_avif,quality_auto/636b95_f2d9f4703ca445caac5a788f01da105f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-023-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_41fbaaddc3134ae48d648cd6fb2aa64d~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_41fbaaddc3134ae48d648cd6fb2aa64d~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-024-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d18f235eabce4d2c951bcc70dee4d9d7~mv2.jpg/v1/fill/w_478,h_719,q_81,enc_avif,quality_auto/636b95_d18f235eabce4d2c951bcc70dee4d9d7~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-025-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_7217bdb0f9b54341b6a9c2f3ea045131~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_7217bdb0f9b54341b6a9c2f3ea045131~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-026-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c516aaafd2a14581b220381fe090c1eb~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_c516aaafd2a14581b220381fe090c1eb~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-027-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_ba68aafe9ece422f93283b679e09a2b5~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_ba68aafe9ece422f93283b679e09a2b5~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-028-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_411c1a7cff3c46e98bd34cc440cabb18~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_411c1a7cff3c46e98bd34cc440cabb18~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-029-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_6430ab7b15fc47ba9874d92d21fef631~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_6430ab7b15fc47ba9874d92d21fef631~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-030-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_7516158172e741c791f139413d466cfb~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_7516158172e741c791f139413d466cfb~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-031-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_00e121807be147b1891eb4ef45cc78b7~mv2.jpg/v1/fill/w_479,h_140,q_81,enc_avif,quality_auto/636b95_00e121807be147b1891eb4ef45cc78b7~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-032-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0ad0b0a6c7b8447eb9f6f26e30ad097a~mv2.jpg/v1/fill/w_479,h_225,q_81,enc_avif,quality_auto/636b95_0ad0b0a6c7b8447eb9f6f26e30ad097a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-033-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_1658295542ba41d9b32293c80c6a3288~mv2.jpg/v1/fill/w_479,h_721,q_81,enc_avif,quality_auto/636b95_1658295542ba41d9b32293c80c6a3288~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-034-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_ae4c9ac6da9344cc963513bdb7ec7ae4~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_ae4c9ac6da9344cc963513bdb7ec7ae4~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-035-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0e79928aaad14b5db47844bb9c01ed32~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_0e79928aaad14b5db47844bb9c01ed32~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-036-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_caa742db887044d7b007ad63c0fff3b3~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_caa742db887044d7b007ad63c0fff3b3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-037-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_19dc3f33db904f78a9b5ee27d22d149b~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_19dc3f33db904f78a9b5ee27d22d149b~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-038-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg/v1/fill/w_907,h_755,al_c,q_85,enc_avif,quality_auto/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-039-小巴老師個人照工作照小檔案jpg.jpg",
+    "alt": "小巴老師個人照工作照小檔案.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/UNxtyKcjtc0/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-040-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/bgm7c484NBM/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-041-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/2BAG1bvVLj8/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-042-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/cAGjCvvskUQ/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-043-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/MkAbtulaQRA/maxresdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-044-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/-KUqZWr5LVo/hqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-045-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/cVGKUQAux7s/sddefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-046-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/event",
+    "sourcePageSlug": "event",
+    "originalUrl": "https://i.ytimg.com/vi/SqJRrp8s8RQ/mqdefault.jpg",
+    "localPath": "/assets/legacy-commercial/event/event-047-event-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "event"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_68060af0e8de4eb39c4d6365efe50b84~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_68060af0e8de4eb39c4d6365efe50b84~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-001-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_15a4c3e8e92f43149cf09b15c842a3e1~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_15a4c3e8e92f43149cf09b15c842a3e1~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-002-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_ad8bdebefc35430eadfe80af9fa02553~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_ad8bdebefc35430eadfe80af9fa02553~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-003-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_adcb3e73a4e34525a51a42054146b594~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_adcb3e73a4e34525a51a42054146b594~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-004-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a5e2b7af21d1468a9cd3beecaf37f35e~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_a5e2b7af21d1468a9cd3beecaf37f35e~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-005-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0c3c55d6ff324613a3d2bdf363311751~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_0c3c55d6ff324613a3d2bdf363311751~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-006-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d94453922e764b6d9a2a3f79202a3ed4~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_d94453922e764b6d9a2a3f79202a3ed4~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-007-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_30aad788d284459cab13c4bbe8218c13~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_30aad788d284459cab13c4bbe8218c13~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-008-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_721a135c085b473e93e1dceee9b84b17~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_721a135c085b473e93e1dceee9b84b17~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-009-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_45c4710c6aba4c5a8656dd5e68aedf9a~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_45c4710c6aba4c5a8656dd5e68aedf9a~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-010-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_93d34073b8f24920855e9b514e624b35~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_93d34073b8f24920855e9b514e624b35~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-011-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f8ec0731023c42b9ac2956e03b2b4137~mv2.jpg/v1/fill/w_439,h_660,q_79,enc_avif,quality_auto/636b95_f8ec0731023c42b9ac2956e03b2b4137~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-012-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_db6d056c513c48e8bf5514fb1db0c674~mv2.jpeg/v1/fill/w_439,h_660,q_79,enc_avif,quality_auto/636b95_db6d056c513c48e8bf5514fb1db0c674~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/food/food-013-food-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a8c25d866f0d4294b322a10101eed806~mv2.jpeg/v1/fill/w_440,h_293,q_79,enc_avif,quality_auto/636b95_a8c25d866f0d4294b322a10101eed806~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/food/food-014-food-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_67b222942bae42b9af17a145d594f75b~mv2.jpeg/v1/fill/w_440,h_293,q_79,enc_avif,quality_auto/636b95_67b222942bae42b9af17a145d594f75b~mv2.jpeg",
+    "localPath": "/assets/legacy-commercial/food/food-015-food-image.jpeg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_5d9a7c2d8f5349068922eac61a57c098~mv2.jpg/v1/fill/w_440,h_293,q_79,enc_avif,quality_auto/636b95_5d9a7c2d8f5349068922eac61a57c098~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-016-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_db3d516054e24a448c421ebc5d0df03d~mv2.jpg/v1/fill/w_439,h_292,q_79,enc_avif,quality_auto/636b95_db3d516054e24a448c421ebc5d0df03d~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-017-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_6a45000e921a441c96e9be005922b23e~mv2.jpg/v1/fill/w_439,h_660,q_79,enc_avif,quality_auto/636b95_6a45000e921a441c96e9be005922b23e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-018-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_97841774ae854cff871c0c48a209cfc9~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_97841774ae854cff871c0c48a209cfc9~mv2.webp",
+    "localPath": "/assets/legacy-commercial/food/food-019-food-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e48b1d3d3c9342a4a59bcef9a376f1f0~mv2.jpg/v1/fill/w_439,h_660,q_79,enc_avif,quality_auto/636b95_e48b1d3d3c9342a4a59bcef9a376f1f0~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-020-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_60ea11f61f8c4cd99ecdf275d5a52ae2~mv2.jpg/v1/fill/w_440,h_661,q_79,enc_avif,quality_auto/636b95_60ea11f61f8c4cd99ecdf275d5a52ae2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-021-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c356d5b4a67a439fa388593d9612ad19~mv2.jpg/v1/fill/w_439,h_292,q_79,enc_avif,quality_auto/636b95_c356d5b4a67a439fa388593d9612ad19~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-022-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_215062f177084b3f9cf5199e8e40e7a1~mv2.jpg/v1/fill/w_439,h_660,q_79,enc_avif,quality_auto/636b95_215062f177084b3f9cf5199e8e40e7a1~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-023-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4fe7b8f7830545288f248aaab4b8d4ba~mv2.jpg/v1/fill/w_439,h_292,q_79,enc_avif,quality_auto/636b95_4fe7b8f7830545288f248aaab4b8d4ba~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-024-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d913fb11580a44129b3a9a6c2b85c5a6~mv2.jpg/v1/fill/w_440,h_293,q_79,enc_avif,quality_auto/636b95_d913fb11580a44129b3a9a6c2b85c5a6~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-025-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_090a23e441984274975332ae95d5f714~mv2.jpg/v1/fill/w_439,h_292,q_79,enc_avif,quality_auto/636b95_090a23e441984274975332ae95d5f714~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-026-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4d02026b52dd44379181df48a97f4a7a~mv2.jpg/v1/fill/w_440,h_293,q_79,enc_avif,quality_auto/636b95_4d02026b52dd44379181df48a97f4a7a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-027-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_270f9b4b76f941158381738757377550~mv2.jpg/v1/fill/w_439,h_660,q_79,enc_avif,quality_auto/636b95_270f9b4b76f941158381738757377550~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-028-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b4e723bcc9994eb3930b3cf098f71bb9~mv2.jpg/v1/fill/w_439,h_660,q_79,enc_avif,quality_auto/636b95_b4e723bcc9994eb3930b3cf098f71bb9~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-029-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_1b9bdbdcb5a34cc4ace0304d3eee82a4~mv2.jpg/v1/fill/w_440,h_293,q_79,enc_avif,quality_auto/636b95_1b9bdbdcb5a34cc4ace0304d3eee82a4~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-030-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f65321af77394af2b5749b5b078c74b3~mv2.jpg/v1/fill/w_440,h_293,q_79,enc_avif,quality_auto/636b95_f65321af77394af2b5749b5b078c74b3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-031-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_1b3a898a2d1f4754939ef9bc05ef7d65~mv2.jpg/v1/fill/w_439,h_292,q_79,enc_avif,quality_auto/636b95_1b3a898a2d1f4754939ef9bc05ef7d65~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-032-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/11062b_2042bb7351284f0f982e4787d37415e6f000.jpg/v1/fill/w_980,h_406,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/11062b_2042bb7351284f0f982e4787d37415e6f000.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-033-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_721a135c085b473e93e1dceee9b84b17~mv2.jpg/v1/fill/w_490,h_406,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/636b95_721a135c085b473e93e1dceee9b84b17~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-034-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg/v1/fill/w_907,h_755,al_c,q_85,enc_avif,quality_auto/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-035-小巴老師個人照工作照小檔案jpg.jpg",
+    "alt": "小巴老師個人照工作照小檔案.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_68060af0e8de4eb39c4d6365efe50b84~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_68060af0e8de4eb39c4d6365efe50b84~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-036-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_15a4c3e8e92f43149cf09b15c842a3e1~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_15a4c3e8e92f43149cf09b15c842a3e1~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-037-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_ad8bdebefc35430eadfe80af9fa02553~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_ad8bdebefc35430eadfe80af9fa02553~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-038-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_adcb3e73a4e34525a51a42054146b594~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_adcb3e73a4e34525a51a42054146b594~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-039-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a5e2b7af21d1468a9cd3beecaf37f35e~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_a5e2b7af21d1468a9cd3beecaf37f35e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-040-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0c3c55d6ff324613a3d2bdf363311751~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_0c3c55d6ff324613a3d2bdf363311751~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-041-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_d94453922e764b6d9a2a3f79202a3ed4~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_d94453922e764b6d9a2a3f79202a3ed4~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-042-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_30aad788d284459cab13c4bbe8218c13~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_30aad788d284459cab13c4bbe8218c13~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-043-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_45c4710c6aba4c5a8656dd5e68aedf9a~mv2.jpg/v1/fill/w_439,h_247,q_79,enc_avif,quality_auto/636b95_45c4710c6aba4c5a8656dd5e68aedf9a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-044-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_93d34073b8f24920855e9b514e624b35~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_93d34073b8f24920855e9b514e624b35~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-045-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/food",
+    "sourcePageSlug": "food",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_97841774ae854cff871c0c48a209cfc9~mv2.jpg/v1/fill/w_440,h_248,q_79,enc_avif,quality_auto/636b95_97841774ae854cff871c0c48a209cfc9~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/food/food-046-food-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "food"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_17921b62cf0b479498ff6b0ddb50d46a~mv2.jpg/v1/fill/w_1440,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/636b95_17921b62cf0b479498ff6b0ddb50d46a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-001-飯店攝影客房房型1jpg.jpg",
+    "alt": "飯店攝影_客房房型1.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8ecd525dccb04494956b2c24d49dd620~mv2.png/v1/fill/w_292,h_219,fp_0.50_0.50,q_95,enc_avif,quality_auto/636b95_8ecd525dccb04494956b2c24d49dd620~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-002-旅宿觀光業攝影-澎湖民宿餐點.png",
+    "alt": "旅宿觀光業攝影 | 澎湖民宿餐點",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4518b4079e1d4ff781c49dbd0d764444~mv2.jpg/v1/fill/w_292,h_219,fp_0.50_0.50,q_90,enc_avif,quality_auto/636b95_4518b4079e1d4ff781c49dbd0d764444~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-003-飯店攝影-新開幕房型餐點會議中心拍攝.jpg",
+    "alt": "飯店攝影 新開幕房型餐點會議中心拍攝",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_71ca96fb36ca4277bf50501342a223e8~mv2.jpg/v1/fill/w_292,h_219,fp_0.50_0.50,q_90,enc_avif,quality_auto/636b95_71ca96fb36ca4277bf50501342a223e8~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-004-民宿攝影-澎湖陽光棕櫚渡假民宿.jpg",
+    "alt": "民宿攝影 | 澎湖陽光棕櫚渡假民宿",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_50c0c9f3f0c54a3e9e799288031cd9e5~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_50c0c9f3f0c54a3e9e799288031cd9e5~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-005-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-006-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-007-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_25b668f1dae84fc29da5cbae569e6f75~mv2.jpg/v1/fill/w_479,h_271,q_81,enc_avif,quality_auto/636b95_25b668f1dae84fc29da5cbae569e6f75~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-008-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e88ff2d126c9497fbb84a43e8b008dd2~mv2.jpg/v1/fill/w_478,h_225,q_81,enc_avif,quality_auto/636b95_e88ff2d126c9497fbb84a43e8b008dd2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-009-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0db5c6fb2b324346bc66564b95c1638e~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_0db5c6fb2b324346bc66564b95c1638e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-010-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_98abc9d5baec4a5f936450f83f6f8049~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_98abc9d5baec4a5f936450f83f6f8049~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-011-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-012-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4a83297d505f4a77b30be15261c8893e~mv2.jpg/v1/fill/w_479,h_267,q_81,enc_avif,quality_auto/636b95_4a83297d505f4a77b30be15261c8893e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-013-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_9b488d3b1939408e85168068a74467c2~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_9b488d3b1939408e85168068a74467c2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-014-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b0eebc2fd2f941548ff5c29146772947~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_b0eebc2fd2f941548ff5c29146772947~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-015-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8c7ba07e029d44dbb1c3342d3a2e9d99~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_8c7ba07e029d44dbb1c3342d3a2e9d99~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-016-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_844eb5b4ee7543c0a2843a0a0b72893c~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_844eb5b4ee7543c0a2843a0a0b72893c~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-017-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4845438007b34d3a88dc88d79435e29e~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_4845438007b34d3a88dc88d79435e29e~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-018-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0bc16c2e85934089bd77c2affcc86316~mv2.jpg/v1/fill/w_479,h_275,q_81,enc_avif,quality_auto/636b95_0bc16c2e85934089bd77c2affcc86316~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-019-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-020-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-021-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0617e2672364462ba1dcc7591d1ca6e3~mv2.jpg/v1/fill/w_479,h_264,q_81,enc_avif,quality_auto/636b95_0617e2672364462ba1dcc7591d1ca6e3~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-022-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e51d6d829fbe40e48e5eb518cf417bd1~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_e51d6d829fbe40e48e5eb518cf417bd1~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-023-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_2b8da7e2a88341579a9cca541b61bb6f~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_2b8da7e2a88341579a9cca541b61bb6f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-024-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_336b45d0a8cb4875aa8bc1292429f43e~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_336b45d0a8cb4875aa8bc1292429f43e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-025-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_47be8523f3d64da5b6b3eb74658865b9~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_47be8523f3d64da5b6b3eb74658865b9~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-026-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e9cb8c856a5c4f8bb48ef59d1803e620~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_e9cb8c856a5c4f8bb48ef59d1803e620~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-027-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_12c9ff9ee6984706bdb671468fe82f49~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_12c9ff9ee6984706bdb671468fe82f49~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-028-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_684f9352385248dd8df62424da28f039~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_684f9352385248dd8df62424da28f039~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-029-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b443b8bbf0ec4ccd894f8ba837e0223a~mv2.jpg/v1/fill/w_479,h_325,q_81,enc_avif,quality_auto/636b95_b443b8bbf0ec4ccd894f8ba837e0223a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-030-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_076e7fed801544f9b711c7b231862b5c~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_076e7fed801544f9b711c7b231862b5c~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-031-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_0f43bfdde80c46dd90df431b60700fbc~mv2.jpg/v1/fill/w_478,h_343,q_81,enc_avif,quality_auto/636b95_0f43bfdde80c46dd90df431b60700fbc~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-032-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e0efaeedf626482190b7655f40922284~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_e0efaeedf626482190b7655f40922284~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-033-hotel-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c25e130cf73b4e57bbaaf6d0f209d863~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_c25e130cf73b4e57bbaaf6d0f209d863~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-034-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_fb215b5ad7814b1cbf99afdb5532d447~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_fb215b5ad7814b1cbf99afdb5532d447~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-035-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_df86c52a92004849bdbf62f9d27383fb~mv2.jpg/v1/fill/w_479,h_720,q_81,enc_avif,quality_auto/636b95_df86c52a92004849bdbf62f9d27383fb~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-036-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c9efa9a3d6124f65a71a0cb6084921ef~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_c9efa9a3d6124f65a71a0cb6084921ef~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-037-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_17921b62cf0b479498ff6b0ddb50d46a~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_17921b62cf0b479498ff6b0ddb50d46a~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-038-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_a3fb07211b374743aea5e787f03cc5ec~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_a3fb07211b374743aea5e787f03cc5ec~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-039-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_83ab7df62d24483d9899ecfd3af9ecbd~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_83ab7df62d24483d9899ecfd3af9ecbd~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-040-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_afaef61eef9c4134b25137deb3dcb31d~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_afaef61eef9c4134b25137deb3dcb31d~mv2.webp",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-041-hotel-image.webp",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_2c12ef3afb1c432f8b5bc80b7a93b525~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_2c12ef3afb1c432f8b5bc80b7a93b525~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-042-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_f2c3bc0d24ff44bc9898a97cf119a6d5~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_f2c3bc0d24ff44bc9898a97cf119a6d5~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-043-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_3eae45488d994482bb8a5b09a97d4079~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_3eae45488d994482bb8a5b09a97d4079~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-044-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_3f2b56ee65ec45faa3801368172b3ba2~mv2.jpg/v1/fill/w_479,h_720,q_81,enc_avif,quality_auto/636b95_3f2b56ee65ec45faa3801368172b3ba2~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-045-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_2c70ffdeb7c849d898e94c3dccae82c4~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_2c70ffdeb7c849d898e94c3dccae82c4~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-046-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_ddc8f8cac41c4ea78075a85f39a2cc1f~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_ddc8f8cac41c4ea78075a85f39a2cc1f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-047-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_377eb54e32d840bfa297fe78e88dfda0~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_377eb54e32d840bfa297fe78e88dfda0~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-048-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b6877f3af978451f8516eb8e7906fa7f~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_b6877f3af978451f8516eb8e7906fa7f~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-049-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_5880e0946f004809862ea9c64a03eb55~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_5880e0946f004809862ea9c64a03eb55~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-050-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_16d519df1b884f3a916f1633e714ab59~mv2.jpg/v1/fill/w_478,h_318,q_81,enc_avif,quality_auto/636b95_16d519df1b884f3a916f1633e714ab59~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-051-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_51bb2bb2c78643ad98d0c3202e7597f0~mv2.jpg/v1/fill/w_479,h_319,q_81,enc_avif,quality_auto/636b95_51bb2bb2c78643ad98d0c3202e7597f0~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-052-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_27e5ecf2932a4836a7ffcf70fe3d378d~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_27e5ecf2932a4836a7ffcf70fe3d378d~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-053-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_3967b36f10054d4aa165bf5f72d26704~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_3967b36f10054d4aa165bf5f72d26704~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-054-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_bf132f49772f4cdea530e3bc94d64aed~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_bf132f49772f4cdea530e3bc94d64aed~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-055-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_e6a170815c1642bc9882d7d7a3d6263b~mv2.jpg/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_e6a170815c1642bc9882d7d7a3d6263b~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-056-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_5963cf89012143bd98328b364afaac3b~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_5963cf89012143bd98328b364afaac3b~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-057-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_85f51fe1046246e0ada0991157b257a0~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_85f51fe1046246e0ada0991157b257a0~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-058-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg/v1/fill/w_907,h_755,al_c,q_85,enc_avif,quality_auto/636b95_cf7d7109eeca49debc093714f5b00c77~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-059-小巴老師個人照工作照小檔案jpg.jpg",
+    "alt": "小巴老師個人照工作照小檔案.jpg",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_50c0c9f3f0c54a3e9e799288031cd9e5~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_50c0c9f3f0c54a3e9e799288031cd9e5~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-060-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_b58751ad39ba4a4ba4164e9b2d35941b~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-061-hotel-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_c4f90d271a26441bad7414e7908e7da9~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-062-hotel-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_8f76c0cf0d1c456a89aa9728ba1c35cf~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-063-hotel-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_4845438007b34d3a88dc88d79435e29e~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_4845438007b34d3a88dc88d79435e29e~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-064-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_08e69bc73c5b4db2b19c1b5cd54c97f5~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-065-hotel-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.png/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_872a7d8fc1554cac8720cfa2efa12fb5~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-066-hotel-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_47be8523f3d64da5b6b3eb74658865b9~mv2.png/v1/fill/w_478,h_269,q_81,enc_avif,quality_auto/636b95_47be8523f3d64da5b6b3eb74658865b9~mv2.png",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-067-hotel-image.png",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  },
+  {
+    "sourcePage": "https://www.8-ways.com/hotel",
+    "sourcePageSlug": "hotel",
+    "originalUrl": "https://static.wixstatic.com/media/636b95_afaef61eef9c4134b25137deb3dcb31d~mv2.jpg/v1/fill/w_479,h_269,q_81,enc_avif,quality_auto/636b95_afaef61eef9c4134b25137deb3dcb31d~mv2.jpg",
+    "localPath": "/assets/legacy-commercial/hotel/hotel-068-hotel-image.jpg",
+    "alt": "",
+    "title": "",
+    "type": "image",
+    "usedIn": [
+      "hotel"
+    ]
+  }
+]

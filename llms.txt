@@ -1,0 +1,14 @@
+Site: business-8ways.pages.dev
+Main services:
+- /services/commercial-photography/
+- /services/hotel-photography/
+- /services/event-photography/
+- /services/travel-promotion-photography/
+- /services/food-commercial-video/
+- /services/aerial-photography/
+Systems:
+- Works: /works/ and /works/{slug}/
+- Articles: /articles/ and /articles/{slug}/
+- Clients: /clients/ and /clients/{slug}/
+Contact:
+Line/Phone 0911252302, WhatsApp +886 911252302, Email crownchief@gmail.com

@@ -1,0 +1,19 @@
+:root{--bg:#0b1220;--card:#111a2e;--text:#e5e7eb;--muted:#94a3b8;--brand:#22c55e;--line:#1f2a44}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#070b14;color:var(--text);line-height:1.6}
+a{color:#93c5fd;text-decoration:none}a:hover{text-decoration:underline}
+.container{width:min(1160px,92%);margin:0 auto}
+header{position:sticky;top:0;background:#070b14ee;border-bottom:1px solid var(--line);backdrop-filter:blur(6px);z-index:20}
+.nav{display:flex;align-items:center;justify-content:space-between;padding:12px 0}.brand{font-weight:700}
+.menu{display:flex;gap:16px;align-items:center}.menu a{color:var(--text);font-size:14px}.cta{background:var(--brand);color:#04210f!important;padding:8px 12px;border-radius:999px;font-weight:700}
+.hero{padding:64px 0 32px}.hero h1{font-size:clamp(28px,4vw,44px);line-height:1.2;margin:0 0 12px}.hero p{color:var(--muted);max-width:920px}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}.btn{padding:10px 14px;border-radius:10px;border:1px solid var(--line);color:var(--text)}.btn.primary{background:var(--brand);color:#02240d;border-color:transparent;font-weight:700}
+.grid{display:grid;gap:16px}.grid.cards{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);padding:16px;border-radius:14px}
+.section{padding:26px 0}.section h2{margin:0 0 10px;font-size:28px}
+.masonry{columns:3 220px;column-gap:12px}.masonry img{width:100%;margin:0 0 12px;border-radius:10px;display:block;cursor:pointer}
+.video-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}.video-card iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:10px}
+footer{margin-top:40px;padding:28px 0;background:#060a12;border-top:1px solid var(--line)}
+.footer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+input,button,select{font:inherit}.mobile-toggle{display:none}
+.lightbox{position:fixed;inset:0;background:#000d;display:none;align-items:center;justify-content:center;z-index:40}.lightbox.active{display:flex}.lightbox img{max-width:92vw;max-height:88vh;border-radius:12px}
+@media (max-width:900px){.menu{display:none;position:absolute;top:58px;left:0;right:0;background:#070b14;padding:14px 4%;flex-direction:column;align-items:flex-start;border-bottom:1px solid var(--line)}.menu.open{display:flex}.mobile-toggle{display:block;background:#111a2e;color:var(--text);border:1px solid var(--line);border-radius:8px;padding:8px 10px}}

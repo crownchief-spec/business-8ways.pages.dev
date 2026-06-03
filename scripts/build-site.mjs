@@ -47,7 +47,7 @@ const footer = `
 <div><h3>聯絡方式</h3><p>Line ID：${contact.lineId}<br>電話：${contact.phone}<br>WhatsApp：${contact.whatsapp}<br>Email：${contact.email}<br>八威創意有限公司<br>小巴老師攝影團隊</p></div>
 </div></footer>`;
 
-const shell = ({ title, description, canonical, ogImage = "/assets/placeholders/cover.svg", body, schema = "" }) => `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${title}</title><meta name="description" content="${description}"><link rel="canonical" href="${canonical}"><meta property="og:title" content="${title}"><meta property="og:description" content="${description}"><meta property="og:image" content="${ogImage}"><meta property="og:url" content="${canonical}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="${ogImage}"><link rel="stylesheet" href="/public/css/site.css"></head><body>${nav}<main>${body}</main>${footer}<div class="lightbox"><img src="" alt=""></div><script src="/public/js/site.js"></script>${schema}</body></html>`;
+const shell = ({ title, description, canonical, ogImage = "/assets/placeholders/cover.svg", body, bodyClass = "", schema = "" }) => `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${title}</title><meta name="description" content="${description}"><link rel="canonical" href="${canonical}"><meta property="og:title" content="${title}"><meta property="og:description" content="${description}"><meta property="og:image" content="${ogImage}"><meta property="og:url" content="${canonical}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="${ogImage}"><link rel="stylesheet" href="/public/css/site.css"></head><body${bodyClass ? ` class="${bodyClass}"` : ""}>${nav}<main>${body}</main>${footer}<div class="lightbox"><img src="" alt=""></div><script src="/public/js/site.js"></script>${schema}</body></html>`;
 
 const toHtml = (md) => marked.parse(md);
 
@@ -74,38 +74,33 @@ const firstImagesBySlug = media.reduce((acc, m) => { if (!acc[m.sourcePageSlug])
 
 const eventPricingSection = (lineId) => `<section class="section container pricing-section"><h2>方案與價格</h2>
 <p class="pricing-intro">以下方案皆以 3 小時活動為基準，另含活動前進場準備約 1 小時，總共保留 4 小時服務時間。可依活動內容單選，也可以搭配拍照＋錄影／拍照＋精華短片製作。</p>
-<div class="grid cards pricing-cards">
-<article class="card plan-card"><span class="plan-tag">照片紀錄</span><h3>全程活動拍照</h3><p class="plan-price">NT$8,800 未稅</p><div class="plan-details">
-<p><strong>說明：</strong>適合需要活動照片、結案報告、新聞稿、社群貼文與內部紀錄。</p>
-<p><strong>服務內容：</strong>3 小時活動拍攝，至少 200 張照片，雲端交件，照片皆經基礎調色處理。</p>
-<p><strong>拍攝重點：</strong>活動流程、貴賓致詞、表演畫面、互動花絮、合照、場地佈置與現場氛圍。</p>
-</div></article>
-<article class="card plan-card"><span class="plan-tag">完整紀錄</span><h3>舞台活動全程錄影｜多機固定拍攝</h3><p class="plan-price">NT$8,800 未稅</p><div class="plan-details">
-<p><strong>說明：</strong>適合需要完整保存活動內容、講座、致詞、表演、頒獎或內部存檔。</p>
-<p><strong>服務內容：</strong>3 台攝影機同步拍攝，由 1 位攝影師操作，多機固定對準舞台，完整記錄活動流程。</p>
-<p><strong>拍攝重點：</strong>強調完整度與紀錄性，包含舞台廣角、人物特寫、講話內容、表演過程與活動回放。</p>
-<p><strong>適合用途：</strong>內部紀錄、講座保存、表演完整回看、會後留存。</p>
-</div></article>
-<article class="card plan-card"><span class="plan-tag">社群宣傳</span><h3>精華短片製作｜社群宣傳影片</h3><p class="plan-price">NT$8,800 未稅</p><div class="plan-details">
-<p><strong>說明：</strong>適合需要一支好看的活動形象影片，用於社群曝光、品牌宣傳、活動回顧。</p>
-<p><strong>服務內容：</strong>攝影師手持拍攝，會移動到不同角度，捕捉台上台下、人物互動、環境佈置與精彩畫面，後製成約 2–5 分鐘精華影片。</p>
-<p><strong>拍攝重點：</strong>強調精彩度與畫面感，包含剪輯、音樂、節奏、字卡與活動氛圍呈現。</p>
-<p><strong>特別說明：</strong>精華短片不是全程錄影的剪短版，而是以宣傳與分享為目的重新拍攝與剪輯，重點在畫面精彩、節奏感與社群分享效果。</p>
-</div></article>
+<div class="grid pricing-cards">
+<article class="card plan-card-compact"><div class="plan-card-head"><h3 class="plan-name">全程活動拍照</h3><p class="plan-price">NT$8,800 未稅</p></div>
+<p class="plan-meta"><span class="plan-label">內容</span>3 小時活動拍攝｜至少 200 張｜基礎調色｜雲端交件</p>
+<p class="plan-meta"><span class="plan-label">適合</span>活動紀錄、新聞稿、結案報告、社群照片</p></article>
+<article class="card plan-card-compact"><div class="plan-card-head"><h3 class="plan-name">舞台全程錄影｜多機固定拍攝</h3><p class="plan-price">NT$8,800 未稅</p></div>
+<p class="plan-meta"><span class="plan-label">內容</span>3 機同步拍攝｜固定對準舞台｜完整記錄流程與聲音</p>
+<p class="plan-meta"><span class="plan-label">適合</span>講座、致詞、表演、頒獎、內部存檔</p></article>
+<article class="card plan-card-compact"><div class="plan-card-head"><h3 class="plan-name">精華短片製作｜社群宣傳影片</h3><p class="plan-price">NT$8,800 未稅</p></div>
+<p class="plan-meta"><span class="plan-label">內容</span>攝影師手持移動拍攝｜剪輯成約 2–5 分鐘影片</p>
+<p class="plan-meta"><span class="plan-label">適合</span>品牌曝光、活動回顧、社群分享、形象宣傳</p></article>
 </div>
-<div class="compare-block card"><h3>全程錄影與精華短片有什麼不同？</h3><div class="table-wrap"><table class="compare-table">
-<thead><tr><th scope="col">項目</th><th scope="col">舞台全程錄影</th><th scope="col">精華短片製作</th></tr></thead>
-<tbody>
-<tr><th scope="row">主要目的</th><td>完整紀錄活動內容</td><td>做出好看的宣傳影片</td></tr>
-<tr><th scope="row">拍攝方式</th><td>3 機固定拍舞台</td><td>攝影師手持移動拍攝</td></tr>
-<tr><th scope="row">畫面重點</th><td>講話、表演、流程完整</td><td>精彩畫面、互動、氛圍</td></tr>
-<tr><th scope="row">適合用途</th><td>內部存檔、講座回看、完整紀錄</td><td>社群分享、品牌曝光、活動回顧</td></tr>
-<tr><th scope="row">成品感覺</th><td>像完整活動紀錄</td><td>像活動形象影片／社群影片</td></tr>
-<tr><th scope="row">重點</th><td>完整度</td><td>精彩度</td></tr>
-</tbody>
-</table></div>
-<p class="compare-hint">簡單來說：需要完整保存內容請選擇全程錄影；需要好看、好分享、有宣傳感請選擇精華短片製作。</p></div>
-<div class="pricing-cta"><p>不知道怎麼選？加 Line 告訴我們活動內容，我們可以協助建議拍照、全程錄影或精華短片的組合。</p><a class="btn primary" href="https://line.me/ti/p/~${lineId}">加 Line 詢問適合方案</a></div>
+<div class="compare-section"><h3 class="compare-title">全程錄影與精華短片差在哪？</h3>
+<p class="compare-lead">簡單來說：全程錄影重點是「完整度」，適合完整保存活動內容；精華短片重點是「精彩度」，適合社群分享與品牌曝光。</p>
+<div class="compare-cards">
+<article class="card compare-card"><h4>舞台全程錄影</h4>
+<p><span class="plan-label">重點</span>完整記錄</p>
+<p><span class="plan-label">拍法</span>3 機固定拍攝，主要對準舞台</p>
+<p><span class="plan-label">內容</span>致詞、講座、表演、頒獎完整保留</p>
+<p><span class="plan-label">適合</span>內部存檔、會後回看、完整紀錄</p></article>
+<article class="card compare-card"><h4>精華短片製作</h4>
+<p><span class="plan-label">重點</span>精彩呈現</p>
+<p><span class="plan-label">拍法</span>攝影師手持移動，捕捉不同角度</p>
+<p><span class="plan-label">內容</span>台上台下、互動、佈置、活動氛圍</p>
+<p><span class="plan-label">適合</span>社群分享、品牌曝光、活動回顧</p></article>
+</div>
+<p class="compare-note">精華短片不是全程錄影的剪短版，而是用不同拍攝方式製作的活動形象影片。</p></div>
+<div class="pricing-cta"><p>不知道該選拍照、全程錄影還是精華短片？告訴我們活動類型、時間、地點與用途，我們可以協助建議最適合的拍攝組合。</p><a class="btn primary" href="https://line.me/ti/p/~${lineId}">加 Line 詢問適合方案</a></div>
 </section>`;
 
 const servicePage = (conf) => shell({
@@ -113,8 +108,9 @@ const servicePage = (conf) => shell({
   description: conf.description,
   canonical: `https://business-8ways.pages.dev${conf.path}`,
   ogImage: conf.ogImage || "/assets/placeholders/cover.svg",
-  body: `<section class="hero container"><h1>${conf.h1}</h1><p>${conf.hero}</p><div class="actions"><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 Line 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>
-<section class="section container"><h2>服務重點</h2><div class="grid cards">${conf.points.map((p) => `<article class="card">${p}</article>`).join("")}</div></section>
+  bodyClass: conf.bodyClass || "",
+  body: `${conf.heroIntro ? `<section class="hero container hero-event"><h1>${conf.h1}</h1><p class="hero-intro">${conf.heroIntro}</p><div class="actions actions-compact"><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 Line 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>` : `<section class="hero container"><h1>${conf.h1}</h1><p>${conf.hero}</p><div class="actions"><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 Line 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>`}
+${conf.skipPoints ? "" : `<section class="section container"><h2>服務重點</h2><div class="grid cards">${conf.points.map((p) => `<article class="card">${p}</article>`).join("")}</div></section>`}
 ${conf.pricingSection ? conf.pricingSection : conf.pricing ? `<section class="section container"><h2>方案與價格</h2><div class="grid cards">${conf.pricing.map((p) => `<article class="card"><h3>${p.name}</h3><p>${p.price}</p><p>${p.detail}</p></article>`).join("")}</div></section>` : ""}
 <section class="section container"><h2>代表影片</h2><div class="video-grid">${videos.slice(0, 6).map((v) => `<article class="card video-card"><h3>${v.title || "作品影片"}</h3><iframe src="https://www.youtube.com/embed/${v.youtubeId || "dQw4w9WgXcQ"}" allowfullscreen title="${v.title || "影片"}"></iframe></article>`).join("")}</div></section>
 <section class="section container"><h2>作品圖牆</h2><div class="masonry">${(firstImagesBySlug[conf.slug] || ["/assets/placeholders/cover.svg","/assets/placeholders/cover.svg","/assets/placeholders/cover.svg"]).slice(0,12).map((img) => `<img src="${img}" alt="${conf.h1} 作品圖片" data-lightbox-src="${img}">`).join("")}</div></section>
@@ -138,7 +134,7 @@ await write("index.html", shell({
 const servicesConfig = [
   { slug: "commercial-photography", path: "/services/commercial-photography/", title: "商業攝影總覽｜小巴老師攝影團隊", h1: "商業攝影總覽", hero: "15 年全職商業攝影與影片團隊，服務飯店、餐飲、空拍、活動與旅遊宣傳。", description: "商業攝影總覽頁，涵蓋飯店、活動、旅遊、餐飲、空拍等服務。", points:["15 年全職攝影團隊","合作品牌含希爾頓、喜來登、華碩、富邦、劍湖山","50 趟以上海外工作拍攝行程","可整合地面攝影、空拍與影片製作"] },
   { slug: "hotel", path: "/services/hotel-photography/", title: "飯店攝影・民宿攝影・露營區攝影｜房型照・空拍・形象影片｜小巴老師攝影", h1: "飯店・民宿・露營區攝影方案", hero: "專為住宿產業規劃房型照、公共空間、餐飲、情境模特、空拍與形象影片，可一次完成官網、訂房平台與社群素材。", description: "飯店民宿露營區攝影服務，強調訂房轉換與商業用途。", points:["提升訂房率與品牌質感","房型與公共空間完整呈現","照片與影片一次到位","熟悉 Agoda / Booking / 官網 / 社群需求"], pricing:[{name:"全天拍攝方案（8 小時）",price:"NT$18,800 未稅",detail:"適合新開幕、全面更新、度假型飯店與露營區形象重拍"},{name:"半天拍攝方案（4 小時）",price:"NT$10,800 未稅",detail:"適合局部更新、房型補拍、餐點或公共空間補拍"},{name:"影片製作",price:"每支 NT$4,800–8,800 未稅",detail:"可依官網、IG、YouTube、訂房平台用途輸出"}] },
-  { slug: "event", path: "/services/event-photography/", title: "活動攝影・會議紀錄・企業活動錄影｜照片・精華影片・多機全程錄影", h1: "活動攝影 / 會議紀錄服務", hero: "擅長大型活動、企業論壇、室內會議與運動賽事，提供穩定專業流程與高畫質交件。", description: "活動會議攝影服務，含拍照、精華影片、多機全程錄影。", points:["專業商業攝影 15 年","百家企業指定合作","高畫質照片與影片流程","支援行銷曝光與結案報告"], pricingSection: eventPricingSection(contact.lineId) },
+  { slug: "event", path: "/services/event-photography/", bodyClass: "page-event", title: "活動攝影・會議紀錄・企業活動錄影｜照片・精華影片・多機全程錄影", h1: "活動攝影 / 會議紀錄服務", heroIntro: "15 年商業攝影經驗，擅長大型活動、企業論壇、研討會、品牌發表與舞台活動紀錄。合作過百家企業與品牌，提供活動拍照、舞台全程錄影與精華短片製作，協助客戶完成內部紀錄、結案報告與社群曝光。", skipPoints: true, description: "活動會議攝影服務，含拍照、精華影片、多機全程錄影。", points: [], pricingSection: eventPricingSection(contact.lineId) },
   { slug: "travel", path: "/services/travel-promotion-photography/", title: "旅遊業宣傳攝影｜滑雪・遊樂園・遊艇・水上活動・度假村形象影片", h1: "旅遊業宣傳攝影", hero: "拍攝涵蓋滑雪、水下潛水、遊艇空拍、遊樂園、度假村形象，半天至一週可彈性安排。", description: "旅遊業宣傳攝影與影片服務。", points:["滑雪與雪場形象內容","度假村與星野集團場景拍攝","遊艇包船與水上活動紀錄","休閒運動品牌情境攝影"] },
   { slug: "food", path: "/services/food-commercial-video/", title: "餐飲攝影・美食攝影・餐廳形象影片｜廣告照片・微電影・社群短影音", h1: "餐飲業廣告 / 微電影", hero: "以電影手法製作餐飲商業宣傳內容，整合餐點、空間與人物情境，支援社群短影音與品牌形象片。", description: "餐飲業商業攝影與微電影服務。", points:["餐廳空間與品牌氛圍","餐點美食精緻拍攝","人物用餐情境","酒吧、餐酒館、親子餐廳、鍋物、咖啡廳"] },
   { slug: "aerial", path: "/services/aerial-photography/", title: "空拍攝影服務｜飯店空拍・活動空拍・旅遊宣傳空拍｜小巴老師攝影", h1: "空拍攝影服務", hero: "依拍攝需求使用合適空拍機與地面設備，重點放在構圖、安全、運鏡與商業用途。", description: "飯店、活動、旅遊宣傳與露營區空拍服務。", points:["台灣飯店與旅遊業空拍實務","避開雜物與干擾畫面","官網首頁與訂房平台主圖用途","活動規模呈現與品牌開場鏡頭"] }

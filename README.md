@@ -1,14 +1,11 @@
-# business-8ways.pages.dev
+# 小巴老師商業攝影
 
-這個 repo 提供 `business-8ways.pages.dev` 的靜態網站內容。
+正式網站：https://business.8-ways.com/
 
-## Cloudflare Pages 建議設定
+建置：`npm run build`。部署目錄只用 `dist/`。檢查：`npm run check`。
 
-- Production branch: `main`
-- Framework preset: `None`
-- Build command: (留空)
-- Build output directory: `/`
+作品來源：`content/brand-portfolio/YYYY-MM-DD 中文案件/article.md`，JSON frontmatter 與 Markdown 內文；公開網址取自 slug，維持 `/works/slug/`。每案的 WebP 與縮圖放在該資料夾 `photos/`，不含原始檔。
 
-## 本機預覽
+網站、分類與指南：`content/brand-data/site.json`；影片逐支縮圖及分類：`content/brand-data/videos.json`。影片一律點選才播放、同時一支並可關閉。
 
-可用任一靜態伺服器（例如 VSCode Live Server）直接開 `index.html` 預覽。
+不公開：內容來源、腳本、報告、原始素材與 Git。舊資料保留在版本庫作遷移參考，不作公開部署。

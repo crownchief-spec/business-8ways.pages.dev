@@ -12,7 +12,6 @@
     "希爾頓",
     "喜來登",
     "福容",
-    "華碩",
     "日本星野集團",
     "八方雲集",
     "弘爺漢堡",
@@ -29,34 +28,43 @@
   "facebook": "https://www.facebook.com/benson.tw",
   "images": {
     "sketch": {
-      "src": "/brand/photographer/benson-snowboard-sketch.webp",
-      "width": 665,
-      "height": 1182,
-      "alt": "滑雪人物手繪插畫",
-      "title": "滑雪人物手繪插畫"
+      "src": "/brand/photographer/benson-chen-hotel-aerial-production.webp",
+      "width": 768,
+      "height": 1024,
+      "alt": "小巴老師在飯店空間準備商業空拍設備",
+      "title": "小巴老師在飯店空間準備商業空拍設備"
     },
     "skiPortrait": {
-      "src": "/brand/photographer/benson-chen-ski-portrait.webp",
+      "src": "/brand/photographer/benson-chen-multicamera-production.webp",
       "width": 360,
-      "height": 540,
-      "alt": "小巴老師穿著藍色雪衣，拿著雙板站在雪場",
-      "title": "小巴老師穿著藍色雪衣，拿著雙板站在雪場"
+      "height": 488,
+      "alt": "小巴老師在多機攝影設備之間準備拍攝",
+      "title": "小巴老師在多機攝影設備之間準備拍攝"
     },
     "camera": {
-      "src": "/brand/photographer/benson-chen-professional-camera-snow.webp",
-      "width": 480,
-      "height": 360,
-      "alt": "小巴老師在下雪的戶外手持專業單眼相機拍攝",
-      "title": "小巴老師在下雪的戶外手持專業單眼相機拍攝"
+      "src": "/brand/photographer/benson-chen-business-portrait.webp",
+      "width": 360,
+      "height": 540,
+      "alt": "小巴老師穿著西裝的正式攝影師形象照",
+      "title": "小巴老師穿著西裝的正式攝影師形象照"
     },
     "working": {
-      "src": "/brand/photographer/benson-chen-ski-slope-photographer.webp",
+      "src": "/brand/photographer/benson-chen-commercial-food-photography.webp",
       "width": 540,
       "height": 360,
-      "alt": "小巴老師在雪道旁低姿勢手持專業相機拍攝",
-      "title": "小巴老師在雪道旁低姿勢手持專業相機拍攝"
+      "alt": "小巴老師在補光設備旁使用專業相機拍攝餐飲商品",
+      "title": "小巴老師在補光設備旁使用專業相機拍攝餐飲商品"
     }
   },
   "verifiedAt": "2026-11-22",
-  "verification": "本人於本次對話提供並確認；年資採近20年、滑雪攝影近10年、海外工作約60趟。"
+  "verification": "本人於本次對話提供並確認；年資採近20年、滑雪攝影近10年、海外工作約60趟。",
+  "presentation": {
+    "lede": "活動紀錄、建築空間、飯店旅宿與品牌影像。以近20年的現場經驗，從光線、流程到交付用途，完成商業攝影工作。",
+    "eyebrow": "COMMERCIAL PHOTOGRAPHY AT WORK",
+    "heading": "從拍攝現場，把品牌需要的細節拍清楚",
+    "body": "從企業活動的流程與人物、建築空間的線條與材質，到餐飲商品的光線和細節，小巴老師依使用目的規劃照片與影片。拍攝前確認畫面清單、工作時段與交件需求，讓現場安排更有效率。",
+    "galleryHeading": "商業攝影工作現場",
+    "link": "/works/",
+    "linkLabel": "看商業攝影作品"
+  }
 }

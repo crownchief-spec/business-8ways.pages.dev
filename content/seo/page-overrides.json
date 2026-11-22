@@ -1,0 +1,866 @@
+{
+  "/404.html": {
+    "ogImage": "/assets/seo/og/404-html-846c879e19.jpg",
+    "heroImage": null,
+    "width": 1200,
+    "height": 630,
+    "imageSource": "brand-graphic",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/about/": {
+    "ogImage": "/assets/seo/og/about-4f10f17be1.jpg",
+    "heroImage": "/brand/photographer/benson-chen-business-portrait.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/articles/commercial-aerial-photography/": {
+    "ogImage": "/assets/seo/og/articles-commercial-aerial-photography-c80ae66e40.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/commercial-photography-pricing-guide/": {
+    "ogImage": "/assets/seo/og/articles-commercial-photography-pricing-guide-079c4debbb.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/corporate-event-photography-preparation/": {
+    "ogImage": "/assets/seo/og/articles-corporate-event-photography-preparation-75d6026d92.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/event-photo-video-difference/": {
+    "ogImage": "/assets/seo/og/articles-event-photo-video-difference-a2e1689d4f.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/food-restaurant-commercial-photography/": {
+    "ogImage": "/assets/seo/og/articles-food-restaurant-commercial-photography-6f3386fe69.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/glamping-campsite-photography/": {
+    "ogImage": "/assets/seo/og/articles-glamping-campsite-photography-0384422214.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/homestay-photography-shot-list/": {
+    "ogImage": "/assets/seo/og/articles-homestay-photography-shot-list-24cc8cd292.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/hotel-brand-video-planning/": {
+    "ogImage": "/assets/seo/og/articles-hotel-brand-video-planning-73eb9013d1.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/hotel-photography-booking-platform/": {
+    "ogImage": "/assets/seo/og/articles-hotel-photography-booking-platform-bdf19976c5.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/": {
+    "ogImage": "/assets/seo/og/articles-424adc5d85.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/articles/travel-promotion-video-shot-list/": {
+    "ogImage": "/assets/seo/og/articles-travel-promotion-video-shot-list-84bce444ef.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/categories/aerial/": {
+    "ogImage": "/assets/seo/og/categories-aerial-663b13e684.jpg",
+    "heroImage": "/media/works/taipingshan-cycling-aerial/taipingshan-cycling-aerial-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/architecture/": {
+    "ogImage": "/assets/seo/og/categories-architecture-802b18b049.jpg",
+    "heroImage": "/media/works/community-award-documentary/community-award-documentary-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/brand/": {
+    "ogImage": "/assets/seo/og/categories-brand-5f9a69007e.jpg",
+    "heroImage": "/media/works/elpis-cycling-apparel/elpis-cycling-apparel-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/election/": {
+    "ogImage": "/assets/seo/og/categories-election-8c2bec024c.jpg",
+    "heroImage": "/media/works/election-campaign-documentary/election-campaign-documentary-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/event/": {
+    "ogImage": "/assets/seo/og/categories-event-d3f25c8bb1.jpg",
+    "heroImage": "/media/works/bosch-exhibition/bosch-exhibition-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/factory/": {
+    "ogImage": "/assets/seo/og/categories-factory-e6699ae7a8.jpg",
+    "heroImage": "/media/works/factory-production-line/factory-production-line-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/food/": {
+    "ogImage": "/assets/seo/og/categories-food-8d3e9b28af.jpg",
+    "heroImage": "/media/works/lunar-new-year-food-styling/lunar-new-year-food-styling-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/hotel/": {
+    "ogImage": "/assets/seo/og/categories-hotel-d9c680c562.jpg",
+    "heroImage": "/media/works/travel-ski-hoshino/travel-ski-hoshino-20.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/": {
+    "ogImage": "/assets/seo/og/categories-b48b17086d.jpg",
+    "heroImage": "/media/works/company-sports-day/company-sports-day-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/product/": {
+    "ogImage": "/assets/seo/og/categories-product-d393300d65.jpg",
+    "heroImage": "/media/works/ecommerce-product-cutout/ecommerce-product-cutout-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/categories/travel/": {
+    "ogImage": "/assets/seo/og/categories-travel-852ea69a16.jpg",
+    "heroImage": "/media/works/janfusun-theme-park/janfusun-theme-park-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/contact/": {
+    "ogImage": "/assets/seo/og/contact-cfd191cd4f.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/": {
+    "ogImage": "/assets/seo/og/home-8a5edab282.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/privacy/": {
+    "ogImage": "/assets/seo/og/privacy-0d1b773b2e.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/services/aerial-photography/": {
+    "ogImage": "/assets/seo/og/services-aerial-photography-b835bd451d.jpg",
+    "heroImage": "/media/works/taipingshan-cycling-aerial/taipingshan-cycling-aerial-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/architecture-photography/": {
+    "ogImage": "/assets/seo/og/services-architecture-photography-998f973b44.jpg",
+    "heroImage": "/media/works/community-award-documentary/community-award-documentary-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/brand-film/": {
+    "ogImage": "/assets/seo/og/services-brand-film-34521706d8.jpg",
+    "heroImage": "/media/works/elpis-cycling-apparel/elpis-cycling-apparel-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/election-photography/": {
+    "ogImage": "/assets/seo/og/services-election-photography-622738cd6a.jpg",
+    "heroImage": "/media/works/election-campaign-documentary/election-campaign-documentary-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/event-photography/": {
+    "ogImage": "/assets/seo/og/services-event-photography-7b2c39b566.jpg",
+    "heroImage": "/media/works/bosch-exhibition/bosch-exhibition-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/factory-photography/": {
+    "ogImage": "/assets/seo/og/services-factory-photography-972980a369.jpg",
+    "heroImage": "/media/works/factory-production-line/factory-production-line-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/food-commercial-video/": {
+    "ogImage": "/assets/seo/og/services-food-commercial-video-cb307e4139.jpg",
+    "heroImage": "/media/works/lunar-new-year-food-styling/lunar-new-year-food-styling-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/hotel-photography/": {
+    "ogImage": "/assets/seo/og/services-hotel-photography-9be0050c84.jpg",
+    "heroImage": "/media/works/travel-ski-hoshino/travel-ski-hoshino-20.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/product-photography/": {
+    "ogImage": "/assets/seo/og/services-product-photography-762315790d.jpg",
+    "heroImage": "/media/works/ecommerce-product-cutout/ecommerce-product-cutout-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/services/travel-promotion-photography/": {
+    "ogImage": "/assets/seo/og/services-travel-promotion-photography-44bdbabc8a.jpg",
+    "heroImage": "/media/works/janfusun-theme-park/janfusun-theme-park-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/sitemap/": {
+    "ogImage": "/assets/seo/og/sitemap-1c6a2aa318.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "related-page-image",
+    "imageNote": "TODO：資訊或系統頁未設專用首圖；目前使用該頁主題文字與相關影像製作獨立分享圖。"
+  },
+  "/videos/aerial/": {
+    "ogImage": "/assets/seo/og/videos-aerial-7b4c082c9a.jpg",
+    "heroImage": "/brand/video-posters/youtube-0ag5vtDbTno.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/architecture/": {
+    "ogImage": "/assets/seo/og/videos-architecture-0558e1249b.jpg",
+    "heroImage": "/brand/video-posters/youtube-13B8RBj7IKU.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/brand/": {
+    "ogImage": "/assets/seo/og/videos-brand-d877c799be.jpg",
+    "heroImage": "/brand/video-posters/youtube-Hg9k34aRGOY.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/election/": {
+    "ogImage": "/assets/seo/og/videos-election-7ee7512e9e.jpg",
+    "heroImage": "/brand/video-posters/youtube-YZVi91AcM1k.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/event/": {
+    "ogImage": "/assets/seo/og/videos-event-ba5cb41b14.jpg",
+    "heroImage": "/brand/video-posters/youtube-UNxtyKcjtc0.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/factory/": {
+    "ogImage": "/assets/seo/og/videos-factory-60249515df.jpg",
+    "heroImage": "/brand/video-posters/youtube-CpH7vW-j_Sk.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/food/": {
+    "ogImage": "/assets/seo/og/videos-food-52376aa9fa.jpg",
+    "heroImage": "/brand/video-posters/youtube-NVZvxZlubBU.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/hotel/": {
+    "ogImage": "/assets/seo/og/videos-hotel-7047ca76b0.jpg",
+    "heroImage": "/brand/video-posters/youtube-e9MaBIeXSLo.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/": {
+    "ogImage": "/assets/seo/og/videos-861e45ba68.jpg",
+    "heroImage": "/brand/video-posters/youtube-UNxtyKcjtc0.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/product/": {
+    "ogImage": "/assets/seo/og/videos-product-995e8b8687.jpg",
+    "heroImage": "/brand/video-posters/youtube-J8RNeEYBNjo.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/videos/travel/": {
+    "ogImage": "/assets/seo/og/videos-travel-59060e815e.jpg",
+    "heroImage": "/brand/video-posters/youtube-y0fbPeXM7cU.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/architectural-developer-showcase/": {
+    "ogImage": "/assets/seo/og/works-architectural-developer-showcase-58d63c4d33.jpg",
+    "heroImage": "/media/works/architectural-developer-showcase/architectural-developer-showcase-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/at-tea-brand-film/": {
+    "ogImage": "/assets/seo/og/works-at-tea-brand-film-14b454a6cf.jpg",
+    "heroImage": "/media/works/at-tea-brand-film/at-tea-brand-film-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/barbecue-menu-ingredients/": {
+    "ogImage": "/assets/seo/og/works-barbecue-menu-ingredients-905e377ba1.jpg",
+    "heroImage": "/media/works/barbecue-menu-ingredients/barbecue-menu-ingredients-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/beauty-studio-brand/": {
+    "ogImage": "/assets/seo/og/works-beauty-studio-brand-b78635e9cf.jpg",
+    "heroImage": "/media/works/beauty-studio-brand/beauty-studio-brand-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/bosch-exhibition/": {
+    "ogImage": "/assets/seo/og/works-bosch-exhibition-fe8d0ab2b5.jpg",
+    "heroImage": "/media/works/bosch-exhibition/bosch-exhibition-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/building-materials-exhibition/": {
+    "ogImage": "/assets/seo/og/works-building-materials-exhibition-3d861cca07.jpg",
+    "heroImage": "/media/works/building-materials-exhibition/building-materials-exhibition-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/campervan-travel-brand/": {
+    "ogImage": "/assets/seo/og/works-campervan-travel-brand-c48c1f22ca.jpg",
+    "heroImage": "/media/works/campervan-travel-brand/campervan-travel-brand-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/chicken-food-advertisement/": {
+    "ogImage": "/assets/seo/og/works-chicken-food-advertisement-b116e6abc1.jpg",
+    "heroImage": "/media/works/chicken-food-advertisement/chicken-food-advertisement-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/christmas-school-event/": {
+    "ogImage": "/assets/seo/og/works-christmas-school-event-2e65da3ebc.jpg",
+    "heroImage": "/media/works/christmas-school-event/christmas-school-event-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/community-award-documentary/": {
+    "ogImage": "/assets/seo/og/works-community-award-documentary-5c76a49e6f.jpg",
+    "heroImage": "/media/works/community-award-documentary/community-award-documentary-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/community-festival-night/": {
+    "ogImage": "/assets/seo/og/works-community-festival-night-8da9faab58.jpg",
+    "heroImage": "/media/works/community-festival-night/community-festival-night-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/community-life-award-film/": {
+    "ogImage": "/assets/seo/og/works-community-life-award-film-7a73b6e263.jpg",
+    "heroImage": "/media/works/community-life-award-film/community-life-award-film-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/company-anniversary-sports-day/": {
+    "ogImage": "/assets/seo/og/works-company-anniversary-sports-day-16151c43be.jpg",
+    "heroImage": "/media/works/company-anniversary-sports-day/company-anniversary-sports-day-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/company-sports-day/": {
+    "ogImage": "/assets/seo/og/works-company-sports-day-313df096a6.jpg",
+    "heroImage": "/media/works/company-sports-day/company-sports-day-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/dark-background-food/": {
+    "ogImage": "/assets/seo/og/works-dark-background-food-31e398be41.jpg",
+    "heroImage": "/media/works/dark-background-food/dark-background-food-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/dental-clinic-brand/": {
+    "ogImage": "/assets/seo/og/works-dental-clinic-brand-62b7873c0a.jpg",
+    "heroImage": "/media/works/dental-clinic-brand/dental-clinic-brand-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/dessert-cake-photography/": {
+    "ogImage": "/assets/seo/og/works-dessert-cake-photography-a9e2caef83.jpg",
+    "heroImage": "/media/works/dessert-cake-photography/dessert-cake-photography-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/ecommerce-product-cutout/": {
+    "ogImage": "/assets/seo/og/works-ecommerce-product-cutout-446febcc55.jpg",
+    "heroImage": "/media/works/ecommerce-product-cutout/ecommerce-product-cutout-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/ecommerce-studio-products/": {
+    "ogImage": "/assets/seo/og/works-ecommerce-studio-products-d85478a0fa.jpg",
+    "heroImage": "/media/works/ecommerce-studio-products/ecommerce-studio-products-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/election-campaign-documentary/": {
+    "ogImage": "/assets/seo/og/works-election-campaign-documentary-095978417b.jpg",
+    "heroImage": "/media/works/election-campaign-documentary/election-campaign-documentary-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/elpis-cycling-apparel/": {
+    "ogImage": "/assets/seo/og/works-elpis-cycling-apparel-236a239a0e.jpg",
+    "heroImage": "/media/works/elpis-cycling-apparel/elpis-cycling-apparel-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/factory-production-line/": {
+    "ogImage": "/assets/seo/og/works-factory-production-line-83af2a73c1.jpg",
+    "heroImage": "/media/works/factory-production-line/factory-production-line-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/four-points-sheraton-penghu/": {
+    "ogImage": "/assets/seo/og/works-four-points-sheraton-penghu-2d4267739d.jpg",
+    "heroImage": "/media/works/four-points-sheraton-penghu/four-points-sheraton-penghu-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/fullon-fulong/": {
+    "ogImage": "/assets/seo/og/works-fullon-fulong-5b91eec31a.jpg",
+    "heroImage": "/media/works/fullon-fulong/fullon-fulong-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/gaggenau-cooking-event/": {
+    "ogImage": "/assets/seo/og/works-gaggenau-cooking-event-b7fb881e8e.jpg",
+    "heroImage": "/media/works/gaggenau-cooking-event/gaggenau-cooking-event-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/halloween-school-parade/": {
+    "ogImage": "/assets/seo/og/works-halloween-school-parade-d5cc3d645c.jpg",
+    "heroImage": "/media/works/halloween-school-parade/halloween-school-parade-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/hilton-taipei-sinban/": {
+    "ogImage": "/assets/seo/og/works-hilton-taipei-sinban-114526e72e.jpg",
+    "heroImage": "/media/works/hilton-taipei-sinban/hilton-taipei-sinban-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/hotel-opening-room-food-conference/": {
+    "ogImage": "/assets/seo/og/works-hotel-opening-room-food-conference-c2c2854bac.jpg",
+    "heroImage": "/media/works/hotel-opening-room-food-conference/hotel-opening-room-food-conference-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/hotpot-food-video/": {
+    "ogImage": "/assets/seo/og/works-hotpot-food-video-5c2cb008da.jpg",
+    "heroImage": "/media/works/hotpot-food-video/hotpot-food-video-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/hotpot-menu-advertising/": {
+    "ogImage": "/assets/seo/og/works-hotpot-menu-advertising-e6a2edc752.jpg",
+    "heroImage": "/media/works/hotpot-menu-advertising/hotpot-menu-advertising-06.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/": {
+    "ogImage": "/assets/seo/og/works-cad9886f44.jpg",
+    "heroImage": "/media/works/bosch-exhibition/bosch-exhibition-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/international-medical-conference/": {
+    "ogImage": "/assets/seo/og/works-international-medical-conference-c11932b830.jpg",
+    "heroImage": "/media/works/international-medical-conference/international-medical-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/janfusun-theme-park/": {
+    "ogImage": "/assets/seo/og/works-janfusun-theme-park-ad7b8c3a15.jpg",
+    "heroImage": "/media/works/janfusun-theme-park/janfusun-theme-park-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/juming-museum-20th-anniversary/": {
+    "ogImage": "/assets/seo/og/works-juming-museum-20th-anniversary-9c497071fe.jpg",
+    "heroImage": "/media/works/juming-museum-20th-anniversary/juming-museum-20th-anniversary-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/lalique-crystal-commercial/": {
+    "ogImage": "/assets/seo/og/works-lalique-crystal-commercial-57f9d84083.jpg",
+    "heroImage": "/media/works/lalique-crystal-commercial/lalique-crystal-commercial-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/lunar-new-year-food-styling/": {
+    "ogImage": "/assets/seo/og/works-lunar-new-year-food-styling-9f4df8ff5e.jpg",
+    "heroImage": "/media/works/lunar-new-year-food-styling/lunar-new-year-food-styling-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/monet-garden-pet-homestay/": {
+    "ogImage": "/assets/seo/og/works-monet-garden-pet-homestay-2f993c35d6.jpg",
+    "heroImage": "/media/works/monet-garden-pet-homestay/monet-garden-pet-homestay-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/nayang-beach-glamping/": {
+    "ogImage": "/assets/seo/og/works-nayang-beach-glamping-06437c08d5.jpg",
+    "heroImage": "/media/works/nayang-beach-glamping/nayang-beach-glamping-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/nayi-villa/": {
+    "ogImage": "/assets/seo/og/works-nayi-villa-81affaaf48.jpg",
+    "heroImage": "/media/works/nayi-villa/nayi-villa-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/osaka-academic-conference/": {
+    "ogImage": "/assets/seo/og/works-osaka-academic-conference-7cc69a72de.jpg",
+    "heroImage": "/media/works/osaka-academic-conference/osaka-academic-conference-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/panpan-taian-glamping/": {
+    "ogImage": "/assets/seo/og/works-panpan-taian-glamping-9d4dc4c037.jpg",
+    "heroImage": "/media/works/panpan-taian-glamping/panpan-taian-glamping-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/peninsula-secret/": {
+    "ogImage": "/assets/seo/og/works-peninsula-secret-ba2cc330b8.jpg",
+    "heroImage": "/media/works/peninsula-secret/peninsula-secret-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/pet-products-brand-photography/": {
+    "ogImage": "/assets/seo/og/works-pet-products-brand-photography-a14f2ad7f2.jpg",
+    "heroImage": "/media/works/pet-products-brand-photography/pet-products-brand-photography-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/play-hotel-yilan/": {
+    "ogImage": "/assets/seo/og/works-play-hotel-yilan-dfd749b61a.jpg",
+    "heroImage": "/media/works/play-hotel-yilan/play-hotel-yilan-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/presale-property-photography/": {
+    "ogImage": "/assets/seo/og/works-presale-property-photography-8bcf3d4810.jpg",
+    "heroImage": "/media/works/presale-property-photography/presale-property-photography-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/professional-portrait-cutout/": {
+    "ogImage": "/assets/seo/og/works-professional-portrait-cutout-03b535e51b.jpg",
+    "heroImage": "/media/works/professional-portrait-cutout/professional-portrait-cutout-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/residential-architecture-design/": {
+    "ogImage": "/assets/seo/og/works-residential-architecture-design-989094049f.jpg",
+    "heroImage": "/media/works/residential-architecture-design/residential-architecture-design-01.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/restaurant-delivery-kitchen/": {
+    "ogImage": "/assets/seo/og/works-restaurant-delivery-kitchen-c51a2b8f13.jpg",
+    "heroImage": "/media/works/restaurant-delivery-kitchen/restaurant-delivery-kitchen-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/sailing-yacht-tourism/": {
+    "ogImage": "/assets/seo/og/works-sailing-yacht-tourism-6af4d46dc3.jpg",
+    "heroImage": "/media/works/sailing-yacht-tourism/sailing-yacht-tourism-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/school-sports-day-documentary/": {
+    "ogImage": "/assets/seo/og/works-school-sports-day-documentary-2a7fc7b11d.jpg",
+    "heroImage": "/media/works/school-sports-day-documentary/school-sports-day-documentary-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/shangrila-far-eastern/": {
+    "ogImage": "/assets/seo/og/works-shangrila-far-eastern-7eb0373984.jpg",
+    "heroImage": "/media/works/shangrila-far-eastern/shangrila-far-eastern-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/sunshine-palm-penghu/": {
+    "ogImage": "/assets/seo/og/works-sunshine-palm-penghu-f279eb47f5.jpg",
+    "heroImage": "/media/works/sunshine-palm-penghu/sunshine-palm-penghu-02.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/sydney-yoga-personal-brand/": {
+    "ogImage": "/assets/seo/og/works-sydney-yoga-personal-brand-e7d4209944.jpg",
+    "heroImage": "/media/works/sydney-yoga-personal-brand/sydney-yoga-personal-brand-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/taipei-food-show/": {
+    "ogImage": "/assets/seo/og/works-taipei-food-show-efd78b4383.jpg",
+    "heroImage": "/media/works/taipei-food-show/taipei-food-show-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/taipingshan-cycling-aerial/": {
+    "ogImage": "/assets/seo/og/works-taipingshan-cycling-aerial-40d567b002.jpg",
+    "heroImage": "/media/works/taipingshan-cycling-aerial/taipingshan-cycling-aerial-film-cover.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/technology-campus-opening/": {
+    "ogImage": "/assets/seo/og/works-technology-campus-opening-fe535ffafa.jpg",
+    "heroImage": "/media/works/technology-campus-opening/technology-campus-opening-03.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/travel-ski-hoshino/": {
+    "ogImage": "/assets/seo/og/works-travel-ski-hoshino-fb2ebdc6a6.jpg",
+    "heroImage": "/media/works/travel-ski-hoshino/travel-ski-hoshino-20.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/vegetarian-menu-photography/": {
+    "ogImage": "/assets/seo/og/works-vegetarian-menu-photography-f514670617.jpg",
+    "heroImage": "/media/works/vegetarian-menu-photography/vegetarian-menu-photography-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  },
+  "/works/wellness-space-photography/": {
+    "ogImage": "/assets/seo/og/works-wellness-space-photography-91db6e446f.jpg",
+    "heroImage": "/media/works/wellness-space-photography/wellness-space-photography-04.webp",
+    "width": 1200,
+    "height": 630,
+    "imageSource": "page-photo",
+    "imageNote": null
+  }
+}

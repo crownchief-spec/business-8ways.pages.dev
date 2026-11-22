@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-brand.mjs",
-    "check": "python3 scripts/check-brand.py"
+    "build": "node scripts/build-brand.mjs && node scripts/seo-static-finalize.mjs",
+    "check": "python3 scripts/check-brand.py",
+    "check:seo": "python3 scripts/audit-static-seo.py"
   }
 }

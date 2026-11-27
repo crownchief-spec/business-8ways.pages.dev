@@ -36,7 +36,7 @@ const nav = `
 <a href="/about/">攝影團隊</a>
 <a href="/clients/">客戶專區</a>
 <a href="/articles/">商業攝影文章</a>
-<a class="cta" href="https://line.me/ti/p/~${contact.lineId}">加 LINE 官方帳號 詢價</a>
+<a class="cta" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢價</a>
 </nav></div></header>`;
 
 const footer = `
@@ -100,7 +100,7 @@ const eventPricingSection = (lineId) => `<section class="section container prici
 <p><span class="plan-label">適合</span>社群分享、品牌曝光、活動回顧</p></article>
 </div>
 <p class="compare-note">精華短片不是全程錄影的剪短版，而是用不同拍攝方式製作的活動形象影片。</p></div>
-<div class="pricing-cta"><p>不知道該選拍照、全程錄影還是精華短片？告訴我們活動類型、時間、地點與用途，我們可以協助建議最適合的拍攝組合。</p><a class="btn primary" href="https://line.me/ti/p/~${lineId}">加 LINE 官方帳號 詢問適合方案</a></div>
+<div class="pricing-cta"><p>不知道該選拍照、全程錄影還是精華短片？告訴我們活動類型、時間、地點與用途，我們可以協助建議最適合的拍攝組合。</p><a class="btn primary" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢問適合方案</a></div>
 </section>`;
 
 const servicePage = (conf) => shell({
@@ -109,26 +109,26 @@ const servicePage = (conf) => shell({
   canonical: `https://business-8ways.pages.dev${conf.path}`,
   ogImage: conf.ogImage || "/assets/placeholders/cover.svg",
   bodyClass: conf.bodyClass || "",
-  body: `${conf.heroIntro ? `<section class="hero container hero-event"><h1>${conf.h1}</h1><p class="hero-intro">${conf.heroIntro}</p><div class="actions actions-compact"><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 LINE 官方帳號 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>` : `<section class="hero container"><h1>${conf.h1}</h1><p>${conf.hero}</p><div class="actions"><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 LINE 官方帳號 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>`}
+  body: `${conf.heroIntro ? `<section class="hero container hero-event"><h1>${conf.h1}</h1><p class="hero-intro">${conf.heroIntro}</p><div class="actions actions-compact"><a class="btn primary" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>` : `<section class="hero container"><h1>${conf.h1}</h1><p>${conf.hero}</p><div class="actions"><a class="btn primary" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>`}
 ${conf.skipPoints ? "" : `<section class="section container"><h2>服務重點</h2><div class="grid cards">${conf.points.map((p) => `<article class="card">${p}</article>`).join("")}</div></section>`}
 ${conf.pricingSection ? conf.pricingSection : conf.pricing ? `<section class="section container"><h2>方案與價格</h2><div class="grid cards">${conf.pricing.map((p) => `<article class="card"><h3>${p.name}</h3><p>${p.price}</p><p>${p.detail}</p></article>`).join("")}</div></section>` : ""}
 <section class="section container"><h2>代表影片</h2><div class="video-grid">${videos.slice(0, 6).map((v) => `<article class="card video-card"><h3>${v.title || "作品影片"}</h3><iframe src="https://www.youtube.com/embed/${v.youtubeId || "dQw4w9WgXcQ"}" allowfullscreen title="${v.title || "影片"}"></iframe></article>`).join("")}</div></section>
 <section class="section container"><h2>作品圖牆</h2><div class="masonry">${(firstImagesBySlug[conf.slug] || ["/assets/placeholders/cover.svg","/assets/placeholders/cover.svg","/assets/placeholders/cover.svg"]).slice(0,12).map((img) => `<img src="${img}" alt="${conf.h1} 作品圖片" data-lightbox-src="${img}">`).join("")}</div></section>
-<section class="section container"><h2>需要商業攝影報價嗎？</h2><p>請提供拍攝類型、地點、日期、需要照片或影片、預計用途，我們可以先協助評估拍攝內容與報價。</p><div class="actions"><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 LINE 官方帳號 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>`
+<section class="section container"><h2>需要商業攝影報價嗎？</h2><p>請提供拍攝類型、地點、日期、需要照片或影片、預計用途，我們可以先協助評估拍攝內容與報價。</p><div class="actions"><a class="btn primary" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢價</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>`
 });
 
 await write("index.html", shell({
   title: "商業攝影服務｜飯店・民宿・活動會議・餐飲・旅遊宣傳・空拍｜小巴老師攝影團隊",
   description: "小巴老師攝影團隊提供飯店、民宿、露營區、企業活動、會議紀錄、餐飲廣告、旅遊業宣傳與空拍攝影服務。",
   canonical: "https://business-8ways.pages.dev/",
-  body: `<section class="hero container"><h1>商業攝影服務｜飯店・民宿・活動會議・餐飲・旅遊宣傳・空拍</h1><p>小巴老師攝影團隊提供飯店、民宿、露營區、企業活動、會議紀錄、餐飲廣告、旅遊業宣傳與空拍攝影服務。15 年全職攝影經驗，協助企業把影像直接用在官網、訂房平台、社群與廣告素材。</p><div class="actions"><a class="btn primary" href="/services/commercial-photography/">查看服務方案</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="https://line.me/ti/p/~${contact.lineId}">加 LINE 官方帳號 詢價</a></div></section>
+  body: `<section class="hero container"><h1>商業攝影服務｜飯店・民宿・活動會議・餐飲・旅遊宣傳・空拍</h1><p>小巴老師攝影團隊提供飯店、民宿、露營區、企業活動、會議紀錄、餐飲廣告、旅遊業宣傳與空拍攝影服務。15 年全職攝影經驗，協助企業把影像直接用在官網、訂房平台、社群與廣告素材。</p><div class="actions"><a class="btn primary" href="/services/commercial-photography/">查看服務方案</a><a class="btn" href="/works/">查看作品案例</a><a class="btn" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢價</a></div></section>
 <section class="section container"><h2>服務分類卡片</h2><div class="grid cards"><a class="card" href="/services/hotel-photography/">飯店・民宿・露營區攝影</a><a class="card" href="/services/event-photography/">活動會議攝影</a><a class="card" href="/services/travel-promotion-photography/">旅遊業宣傳攝影</a><a class="card" href="/services/food-commercial-video/">餐飲業廣告 / 微電影</a><a class="card" href="/services/aerial-photography/">空拍攝影</a><a class="card" href="/works/">商業攝影作品案例</a></div></section>
 <section class="section container"><h2>代表作品精選</h2><div class="grid cards">${works.slice(0,9).map((w)=>`<article class="card"><img src="${w.coverImage}" alt="${w.title}" style="width:100%;border-radius:10px"><h3>${w.title}</h3><p>${w.excerpt || ""}</p><a href="/works/${w.slug}/">查看作品</a></article>`).join("")}</div></section>
 <section class="section container"><h2>合作品牌與經歷</h2><p>希爾頓、喜來登、日本星野集團、香格里拉、福容飯店、台南老爺、劍湖山、新社古堡、那一村、翩翩泰安、水映親子露營區、半島秘境、八方雲集、弘爺漢堡。</p></section>
 <section class="section container"><h2>為什麼選擇我們</h2><div class="grid cards"><article class="card">15 年全職商業攝影經驗</article><article class="card">熟悉飯店、旅宿、活動、餐飲與旅遊產業需求</article><article class="card">照片與影片可一次規劃</article><article class="card">可支援空拍、活動多機錄影、精華影片、情境模特拍攝</article></div></section>
 <section class="section container"><h2>拍攝流程</h2><ol><li>Line / 電話詢問</li><li>提供需求與用途</li><li>初步建議與報價</li><li>拍攝前溝通腳本與流程</li><li>拍攝執行</li><li>後製調色剪輯</li><li>雲端交件</li></ol></section>
 <section class="section container"><h2>最新 SEO 文章</h2><div class="grid cards">${articles.slice(0,3).map((a)=>`<article class="card"><h3>${a.title}</h3><p>${a.description}</p><a href="/articles/${a.slug}/">閱讀文章</a></article>`).join("")}</div></section>
-<section class="section container"><h2>需要商業攝影報價嗎？</h2><p>請提供拍攝產業、地點、預計日期、需要照片或影片，我們可以先協助評估拍攝內容與報價。</p><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 LINE 官方帳號 詢價</a></section>`
+<section class="section container"><h2>需要商業攝影報價嗎？</h2><p>請提供拍攝產業、地點、預計日期、需要照片或影片，我們可以先協助評估拍攝內容與報價。</p><a class="btn primary" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢價</a></section>`
 }));
 
 const servicesConfig = [
@@ -144,7 +144,7 @@ for (const s of servicesConfig) await write(`${s.path.slice(1)}index.html`, serv
 
 await write("about/index.html", shell({ title: "關於我們｜小巴老師攝影團隊", description: "15 年商業攝影團隊介紹。", canonical: "https://business-8ways.pages.dev/about/", body: `<section class="hero container"><h1>關於我們 / 攝影團隊</h1><p>小巴老師攝影團隊長期服務商業攝影市場，累積飯店、活動、旅遊、餐飲與空拍實戰，並有多國拍攝經驗。</p></section>` }));
 
-await write("contact/index.html", shell({ title: "聯絡詢價｜小巴老師攝影團隊", description: "商業攝影詢價與需求溝通。", canonical: "https://business-8ways.pages.dev/contact/", body: `<section class="hero container"><h1>聯絡詢價</h1><p>Line / 電話：${contact.phone}<br>WhatsApp：${contact.whatsapp}<br>Email：${contact.email}<br>Facebook：${contact.facebook}<br>IG：${contact.instagram}</p><div class="actions"><a class="btn primary" href="https://line.me/ti/p/~${contact.lineId}">加 LINE 官方帳號 詢價</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>` }));
+await write("contact/index.html", shell({ title: "聯絡詢價｜小巴老師攝影團隊", description: "商業攝影詢價與需求溝通。", canonical: "https://business-8ways.pages.dev/contact/", body: `<section class="hero container"><h1>聯絡詢價</h1><p>Line / 電話：${contact.phone}<br>WhatsApp：${contact.whatsapp}<br>Email：${contact.email}<br>Facebook：${contact.facebook}<br>IG：${contact.instagram}</p><div class="actions"><a class="btn primary" href="https://line.me/R/ti/p/@281uducw">加 LINE 官方帳號 詢價</a><a class="btn" href="tel:${contact.phone}">撥打電話</a></div></section>` }));
 
 await write("works/index.html", shell({
   title: "商業攝影作品案例｜小巴老師攝影團隊",

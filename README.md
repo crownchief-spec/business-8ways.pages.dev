@@ -9,3 +9,7 @@
 網站、分類與指南：`content/brand-data/site.json`；影片逐支縮圖及分類：`content/brand-data/videos.json`。影片一律點選才播放、同時一支並可關閉。
 
 不公開：內容來源、腳本、報告、原始素材與 Git。舊資料保留在版本庫作遷移參考，不作公開部署。
+
+## LINE 聯絡入口
+
+所有網站加好友、預約及詢價按鈕統一使用官方帳號 `@281uducw`：`https://line.me/R/ti/p/@281uducw`。不得恢復個人 LINE ID 或舊的個人加好友連結。電話連結與 LINE 分享文章功能維持原用途。
